@@ -1,0 +1,33 @@
+<div class="blog-detail">
+    <h2>Getting Started with ODK</h2>
+    
+    <div class="blog-lead"><p style="line-height: 20.7999992370605px;">While there are a variety of toolkits available (see the <a href="https://mobsci.dlab.berkeley.edu/resources/mobile-research-software/">resources page </a>for more), for now we focus on a tutorial to get you started with the Open Data Kit (ODK). As we gather more contributions, we'll add tutorials for other toolkits here.</p>
+
+<h2>Overview</h2>
+
+<p style="line-height: 20.7999992370605px;">The Open Data Kit (ODK) is a toolkit designed primarily for collecting data from Android phones and tablets. Some services have also made it possible to collect data via a browser, so other mobile devices with a reliable internet connection could be used in this way. ODK version 1 has been around for some years. While it is a bit clunky, it is very stable, and tools have been written to make it very easy to get started - and you still get nice features like access to the camera and GPS. Version 2.0 is currently in beta, and it's recommended that you get a feel for ODK 1 before attempting a project with 2.</p>
+
+<p style="line-height: 20.7999992370605px;">The <a href="http://opendatakit.org/">introductory page to the ODK website</a> provides a reasonable overview of the components available for building, delivering, and collecting data from surveys. For your first project, we highly recommend using a service like <a href="http://formhub.org">formhub</a> or <a href="http://ona.io">ona</a>. These sites are very similar, and provide a complete server-based solution</p>
+
+<h2>Building forms</h2>
+
+<p style="line-height: 20.7999992370605px;">Under the hood, ODK uses an XML format called XForm. There are two user-friendly ways to build forms, specifying your form data in Excel in the <a href="http://xlsforms.org">XLSForm</a> format, or using a graphical form builder like <a href="http://build.opendatakit.org/">ODK Build</a>. Unfortunately, the available web-based graphical form builders do not work with formhub or ona, so XLSForms is recommended, even though it's a <em>bit</em> more complex than using a graphical builder.</p>
+
+<p style="line-height: 20.7999992370605px;">You'll get the most correct documentation for XLSForms directly on <a href="http://xlsform.org">their site</a>. If you like examples more than documentation, browse for links on that page! Also note that XLSForm uses Xpath syntax for algebra, which is a bit different than most langauges you may be used to (e.g., 'div' instead of '/'). Fortunately, the <a href="http://www.w3schools.com/xpath/xpath_operators.asp">list of operations available</a> is short.</p>
+
+<p style="line-height: 20.7999992370605px;">And be careful! The XLSForm format has changed somewhat to support the more powerful features of ODK 2.0. Be sure you are using the version of XLSForm that corresponds with ODK 1.</p>
+
+<h2>Deploying Forms</h2>
+
+<p style="line-height: 20.7999992370605px;">Forms can be loaded directly onto your Android device, but the easiest approach (if you have access to reliable internet) is to first upload your form to formhub or ona.</p>
+
+<p style="line-height: 20.7999992370605px;">Once your form is available, you'll need to enter your personal URL (e.g., http://formhub.org/username) in the ODK Collect app (which you can <a href="https://play.google.com/store/apps/details?id=org.odk.collect.android">install from the google play store</a>). The instructions are a bit unclear, but you'll want to enter this URL via the General Setting menu (accessed via the three-dot icon, probably at the upper left of the Collect app). There, select "Platform" and choose "Other." Then, select "Configure platform settings" and you'll see a place to enter your URL. You shouldn't need to change any other settings.</p>
+
+<p style="line-height: 20.7999992370605px;">At this point, you can back out to the main menu, and select "Get Blank Form" to get a form that's been uploaded to the service you specified. There should be a list (perhaps with only one survey), and you need to select the check-box and press "Get Selected." Then you can proceed to "Fill Blank Form." If you back out in the middle of filling a form, you'll have the opportunity to save that form for later completion. This can be very handy!</p>
+
+<p style="line-height: 20.7999992370605px;">The best thing to do now is play around! This isn't a real experiment yet (hopefully), so if you mess something up, you can always start again.</p>
+
+<h2>Getting and Analyzing Data</h2>
+
+<p style="line-height: 20.7999992370605px;">Ona and formhub also provide basic analysis features. But you'll likely want to download your data in CSV or another format for use in your favorite analysis package.</p>
+</div>
