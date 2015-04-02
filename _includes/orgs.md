@@ -1,0 +1,10 @@
+[DSC]: http://datasci.berkeley.edu
+[BIDS]: http://bids.berkeley.edu
+[DLab]: http://dlab.berkeley.edu
+[Matrix]: http://matrix.berkeley.edu
+[BRC]: http://research-it.berkeley.edu/brc
+[CEGA]: http://cega.berkeley.edu/
+[DIL]: http://dil.berkeley.edu/
+[Mezuri]: http://dil.berkeley.edu/data-analytics-toolkits/mezuri-platform/
+[DataTurbine]: http://www.dataturbine.org/
+[ODK]: https://opendatakit.org/

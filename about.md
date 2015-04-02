@@ -3,9 +3,21 @@ layout: page
 title: About
 permalink: /about/
 ---
+{% include orgs.md %}
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Tech4Measurement is a [Social Science Matrix][Matrix] supported research seminar
+that seeks to improve the usage of sensor, mobile, and remote-sensing technology
+to measure social phenomena. The Data Science Collaborative at BIDS is applying
+lessons learned from our first semester facilitating graduate student teams
+working on client projects, providing a rare opportunity for real-world,
+hands-on learning.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+## Support
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Tech4Measurement is an initiative of the Data Science Collaborative at BIDS and
+Glass Bead Labs. We draw on support from the Siemens Web of Things group, BIDS,
+the Social Science Matrix, the I School, the D-Lab, CEGA, DIL, and others. (A
+nicer page with logos coming soon!)
+
+This site is based on the Jekyll new theme at:
+[github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new).

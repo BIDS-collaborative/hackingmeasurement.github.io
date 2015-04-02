@@ -4,11 +4,7 @@ author: Dav Clark
 layout: page
 comments: true
 ---
-[DSC]: http://datasci.berkeley.edu
-[BIDS]: http://bids.berkeley.edu
-[DLab]: http://dlab.berkeley.edu
-[Matrix]: http://matrix.berkeley.edu
-[BRC]: http://research-it.berkeley.edu/brc
+{% include orgs.md %}
 
 ## Course Description
 
