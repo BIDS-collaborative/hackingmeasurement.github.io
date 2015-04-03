@@ -8,17 +8,18 @@ comments: true
 
 ## Course Description
 
-This course is being offered as a part of the [Data Science Collaborative][DSC]
-at the [Berkeley Institute of Data Science (BIDS)][BIDS]. We will take a
-project-based approach to social and environmental measurement incorporating
-mobile devices, "Internet of Things" (or "Web of Things") style sensors, and
-remote sensing. There will be a classroom discussion each week, followed by a
-tutorial / practicum in BIDS. We will leverage support from the [Social Science
+This course addresses the fast-growing area of social and environmental
+measurement using technologies such as mobile devices, “Internet of Things” (or
+“Web of Things”) style sensors, and remote sensing. We will take a project-based
+approach, with a classroom discussion each week, followed by a tutorial /
+practicum in the [Berkeley Institute for Data Science][BIDS. Note that the focus
+of this course is on data collection and management. Teams will likely do some
+basic visualization and exploratory data analysis; statistics and/or machine
+learning are not expected.  We will leverage support from the [Social Science
 Matrix][Matrix], the [D-Lab][Dlab], [BIDS][BIDS], and [Berkeley Research
 Computing][BRC] to provide necessary training, hardware, and compute resources.
-Note that the focus of this course is on data collection and management. Teams
-will likely do some basic visualization and exploratory data analysis --
-statistics and/or machine learning are not expected.
+This course is being offered as a part of the [Data Science Collaborative][DSC]
+at [BIDS][BIDS].
 
 Students will work with project clients, who will help determine the project
 roadmap. Note that the primary goal of the course is educational -- solving the
