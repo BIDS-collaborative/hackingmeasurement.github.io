@@ -181,6 +181,22 @@ interaction exploration tool](http://danielabar.github.io/globi-proto). You
 could start [here](http://www.globalbioticinteractions.org/). Pictures coming in
 via iNaturalist (curated by EOL).
 
+### More todo 
+
+"Guts of the Avatar" 
+
+ - Paragraph for Phenotype RCN funding - working meeting modeling species
+   interactions: ontologies and other data science approaches.
+
+List from a few select data sources (papers, experts) from a few key (island) systems (Moorea/Crete/Hawaii) on terms they use:
+
+ - Relationship types (slide from Chris Meyer; and from Evangelos)
+ - Body part terms
+ - Life history stages/states terms 
+ - Basis of observation (evidence type) for interactions
+
+Map those terms to ontologies
+
 ## Needs
 
  - Tech
