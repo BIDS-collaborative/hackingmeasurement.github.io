@@ -90,6 +90,11 @@ illegally.
 Charlotte is interested in the political transformation of Crete. What kinds of
 political experiments can we observe (or perhaps support).
 
+A hub for single-point-access to the Greek Biodiversity Data, Information and
+Knowledge is being setup.  The relevant project is
+"https://www.lifewatchgreece.eu/", the Greek node of the EU LifeWatch
+infrastructure (http://lifewatch.eu).
+
 ## What is the data science side?
 
 Open science project. Are there ways Crete would like to contribute to Moorea
