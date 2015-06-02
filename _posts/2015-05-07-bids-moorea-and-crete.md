@@ -3,6 +3,7 @@ title: "BIDS, Moorea and Crete"
 author: Dav Clark
 layout: meeting
 ---
+*May 16th, 2015 Additions: Evangelos Pafilis*
 
 ## In attendance
 
@@ -10,25 +11,34 @@ layout: meeting
 
 Neil met these folks at [JGI](http://usermeeting.jgi.doe.gov/).
 
- - Georgos - Marine population genetics, looking into microbial genomics
- - Evangelos - Bioinformatician, text mining for species names & descriptors,
-   global collaboration for marine microbial sampling.
- - Eleni Hatziyanni - Government of Crete, resource management and planning
+ - [Georgos](http://www.imbbc.hcmr.gr/users/georgios-kotoulas) - Marine
+   population genetics, looking into microbial genomics
+ - [Evangelos](http://epafilis.info) - Bioinformatician, text mining for
+   species names & descriptors, global collaboration for marine microbial
+   sampling.
+ - [Eleni
+   Hatziyanni](https://www.linkedin.com/profile/view?id=196506212&trk=eml_inv_status_profile) -
+   Government of Crete, resource management and planning
 
 ### BIDS
 
- - Karthik - Terrestrial Ecology, rOpenSci
- - Neil Davies - Moorea IDEA, Gump Field Station
- - Charlotte Cabasse - Ethnography
- - Dav Clark - D-Lab, Data Science Collaborative
- - Falk Schuetzenmeister - GIF, CNR, ecoengine
+ - [Karthik - Terrestrial Ecology, rOpenSci](http://bids.berkeley.edu/people/karthik-ram)
+ - [Neil Davies - Moorea IDEA, Gump Field Station](http://bids.berkeley.edu/people/neil-davies)
+ - [Charlotte Cabasse - Ethnography](http://bids.berkeley.edu/people/charlotte-cabasse)
+ - [Dav Clark - D-Lab, Data Science Collaborative](http://bids.berkeley.edu/people/dav-clark)
+ - [Falk Schuetzenmeister - GIF, CNR, ecoengine](http://bids.berkeley.edu/people/falk-schuetzenmeister)
 
 ### Other Moorea/biocode folks
 
- - Jorrit Poelen - GLOBI, etc.
- - Maggie Kelly - ESPM & GIF, mapping
- - Suzi Lewis - LBL (selewis@lbl.gov)
- - Chris Mungall - LBL
+ - [Jorrit Poelen - GLOBI, etc.](https://www.linkedin.com/in/jhpoelen)
+ - [Maggie Kelly - ESPM & GIF, mapping](http://bids.berkeley.edu/people/maggi-kelly)
+
+### Berkeley Lab - Lewis Lab
+
+ - http://www2.lbl.gov/lsd/People_&_Organization/Scientific_Staff_Directory/Lewis_Lab.html
+ - http://berkeleybop.org/: Berkeley Bioinformatics Open-source Projects
+ - [Suzi Lewis - LBL](http://berkeleybop.org/person/suzanna-lewis) (selewis@lbl.gov)
+ - [Chris Mungall - LBL](http://berkeleybop.org/person/chris-mungall)
 
 ## The story so far...
 
@@ -42,8 +52,17 @@ throughout time:
     - Socially / human?
  - Simulate future states of the system.
 
-Theoretical physicist from Switzerland (???)
+Theoretical physicist from Switzerland (Matthias Troyer (ETH) et al. ?),
 Rich Williams, set up computational ecology group at MS Research, Cambridge.
+
+- See: http://ogdoad.ethz.ch/idea/Home.html (1st Island Digital Ecosystem
+  Avatars Workshop ETH Zürich, November 18 – 20, 2013) on “Grand Challenge
+  Questions”
+- See: Nature News: “Tropical paradise inspires virtual ecology lab”
+  http://www.nature.com/polopoly_fs/1.16710!/menu/main/topColumns/topLeftColumn/pdf/517255a.pdf 
+- See: http://mooreaidea.org/data for the different types of data being
+  integrated: BIOCODE, CRIOBE, MCR LTER, MIRADA, Landscape model, Bathymetry,
+  Social, Archeological
 
 Pilot project on water models.
 
@@ -59,9 +78,8 @@ multiple communities.
 
 Georgos has government research institute intended to be a hub for Greece on
 bioinformatics, has a slide deck he uses to inspire traditional researchers to
-join with the larger project. (Can we get a copy of these? Perhaps they'll need
-translation.) This center is the largest in Greece, even larger than biomedical
-research centers.
+join with the larger project. This center is the largest in Greece, even larger
+than biomedical research centers.
 
 Crete is ~600,000 people in "23 Mooreas" in area. Also much less isolated system
 than Moorea. E.g., economic crisis impacts the ecology of villages as young
@@ -82,13 +100,17 @@ social one)?
 A core is available on **biocoding**, but Neil suggests this can be improved.
 **Foodwebs** are similarly developed, still lots of data science challenges.
 
+see PDF: [Workshop: Food Webs for Model Islands Berkeley Institute for Data
+Science, Berkeley, California, 27­28 April
+2015](http://mooreaidea.org/storage/pdfs/moorea.foodweb.workshop.2015.pdf)
+
 Stay focused on local, but want tools to be generally useful. Synthesis of data
 from different projects is an ideal. This already happens in food web research
 (genetic data, occurrence data, interaction occurrence, spatio-temporal, lots of
 siloed research).
 
 Jorrit suggests that we should start with making things useful, then proceed to
-standards.
+standards. Find 2, 3 use cases, list data scripts to be used (e.g. rOpenSci).
 
 Karthik points out that things like this happen at LTER and pisco (sp?), but
 very siloed. Data ONE has lots of funding, but it's all behind the scenes. Lean
@@ -124,6 +146,10 @@ that helps people explore according to their interest. Neil confirms this idea.
 Evangelos has example of conveying messages with materials from human anatomy
 textbooks?
 
+e.g see [the association of the kallikrein-related peptidase 3 (prostate
+specific antigen) with different tissue types of the human
+body](http://tissues.jensenlab.org/Entity?figures=tissues_body_human&knowledge=10&experiments=10&textmining=10&type1=9606&type2=-25&id1=ENSP00000314151)
+
 ### Specific proposals
 
  - Show top (marine) predators in Moorea ecosystem & what they rely on
@@ -136,6 +162,7 @@ textbooks?
     - Different mosquitos have different infectiousness (could perhaps even
       simulate with trait data)
     - Could tie into Crete with other vector studies?
+    - Model and predict: if you reduce water how will it affect mosquito population?
  - Water? From different perspectives (i.e., species, geology)?
  - Simulate removal of marine protected areas / increase fisheries (reef turns
    to algae due to loss of herbivorous fish).
@@ -151,10 +178,34 @@ prevented with trait bank (e.g., mouth morphology) - work by Chris Meyer (has
 data on what was in guts, biocoded these contents, then screened against
 reference database).
 
- - Get interactions between software projects (e.g., EOL, GBIF, GLoBI). This
-   would be available, e.g., in the references tab in GLoBI. Show interactions
-   across tools, databases, primary literature, etc. Also show where things are,
-   as a reference tool.
+ - Get interactions between software projects (e.g., EOL, GBIF, GLoBI,
+   ENVIRONMENTS-EOL). This would be available, e.g., in the references tab in
+   GLoBI. Show interactions across tools, databases, primary literature, etc.
+   Also show where things are, as a reference tool.
+ - ENVIRONMENTS and related projects:
+   - ENVIRONMENTS: Identification of Environment Descriptive Terms in Text
+     http://environments.hcmr.gr/
+   - SPECIES and ORGANISMS: Identification of Taxonomic Mentions in Text
+     http://species.hcmr.gr   
+   - EXTRACT: Interactive Extraction of Environment Metadata
+     http://environments.hcmr.gr/biocreative.html
+   - [Cretan Bird - Environment distribution:
+     visualization](http://environments.hcmr.gr/cretan-birds/summarize.html)
+     This is merely a visual summary of the environments (ENVO terms mined from
+     the EOL - “global scale”) for birds associated with Crete (according to
+     GBIF occurrence data – “local scale”). Landscape ecology, citizen science
+     and other projects could be supported from such integrative analysis. Data
+     from the “global scale” could be used to make predictions at the “local
+     scale”, e.g. “in which type of environment according to the global
+     literature might a bird be found in unexplored region?”
+ - “Polytraits: A database on biological traits of polychaetes”
+   http://polytraits.lifewatchgreece.eu/ , a manually curated database on
+   biological traits of polychaetes (bristle worms, Polychaeta: Annelida).
+   - The list of the full trait definitions is available at:
+     http://polytraits.lifewatchgreece.eu/terms 
+   - “supporting evidence” is being tracked e.g. 
+     http://polychaetes.lifewatchgreece.eu/taxonomy/term/5126/traits
+   - please contact Dr. Faulwetter (sarifa@hcmr.gr) for more information
 
 ### Getting concrete
 
@@ -174,14 +225,16 @@ tool?
 
 Chris Mungall knows of literature on text mining protein-protein interactions.
 
-BioHeritage library may be a good source.
+BiodiversityHeritageL library (http://www.biodiversitylibrary.org/) may be a
+good source. BHL in collaboration with Prof. Ananiadou, Dr Navarro (NACTEM, UK)
+and other colleagues are already working on  http://miningbiodiversity.org/
 
 GLoBI has a nice API where a group of students recently built a [species
 interaction exploration tool](http://danielabar.github.io/globi-proto). You
 could start [here](http://www.globalbioticinteractions.org/). Pictures coming in
 via iNaturalist (curated by EOL).
 
-### More todo 
+### More todo
 
 "Guts of the Avatar" 
 
