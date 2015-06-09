@@ -210,6 +210,7 @@ reference database).
      http://polytraits.lifewatchgreece.eu/terms 
    - “supporting evidence” is being tracked e.g. 
      http://polychaetes.lifewatchgreece.eu/taxonomy/term/5126/traits
+     ![Larval development](/images/LarvalDevelopment.png)
    - please contact Dr. Faulwetter (sarifa@hcmr.gr) for more information
 
 ### Getting concrete
