@@ -1,3 +1,28 @@
 body {
-    padding-top: 70px;
+    padding-top: 40px;
 }
+
+/* header.html */
+.navbar {
+    margin-bottom: 0;
+}
+.navbar-brand {
+    height: 21px;
+    line-height: 21px;
+    padding: 15px 15px;
+}
+.navbar-image {
+    float: none;
+}
+.navbar-image img {
+    height: 40px;
+    width: auto;
+    margin-top: -5px;
+    margin-right: 10px;
+}
+.course {
+    background: #ecf0f1;
+    padding: 40px 20px;
+  text-align: center;
+}
+
