@@ -1,17 +1,24 @@
 <footer class="site-footer">
-
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="text-center">
+          <h2>Have Questions?</h2>
+          <div class="footer-icon"><i class="fa fa-question-circle fa-3x"></i></div>
+          <p>Email Dav Clark, Hacking Measurement instructor, at <a href="mailto:davclark@berkeley.edu">davclark@berkeley.edu</a></p>
+        </div>
+      </div>
+    </div>
+  <hr>
+    <div class="row">
+      <div class="col-sm-3">
+        <ul class="contact-list list-unstyled">
+          <li><strong>{{ site.title }}</strong></li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
-
-      <div class="footer-col  footer-col-2">
-        <ul class="social-media-list">
+      <div class="col-sm-3">
+        <ul class="social-media-list list-unstyled">
           {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}">
@@ -31,12 +38,11 @@
           {% endif %}
         </ul>
       </div>
-
-      <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
+      <div class="col-sm-6">
+        <div class="footer-col  footer-col-3">
+          <p class="text">{{ site.description }}</p>
+        </div>
       </div>
     </div>
-
   </div>
-
 </footer>

@@ -1,28 +1,60 @@
 body {
-    padding-top: 40px;
+  padding-top: 40px;
 }
 
-/* header.html */
+/* header */
 .navbar {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 .navbar-brand {
-    height: 21px;
-    line-height: 21px;
-    padding: 15px 15px;
+  height: 21px;
+  line-height: 21px;
+  padding: 15px 15px;
 }
 .navbar-image {
-    float: none;
+  float: none;
 }
 .navbar-image img {
-    height: 40px;
-    width: auto;
-    margin-top: -5px;
-    margin-right: 10px;
+  height: 40px;
+  width: auto;
+  margin-top: -5px;
+  margin-right: 10px;
 }
 .course {
-    background: #ecf0f1;
-    padding: 40px 20px;
+  background: #ecf0f1;
+  padding: 40px 20px;
   text-align: center;
 }
 
+/* footer */
+.site-footer {
+  background: url(../images/bg01.png) repeat 0 0;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.footer-icon {
+  margin: 15px 0;
+}
+.footer-icon i {
+  color: #4b98d8;
+}
+
+/* top page */
+.top-section {
+  padding: 20px 0 40px;
+}
+.top-section h2 {
+  padding: 0 0 20px;
+}
+.top-section h3 {
+  font-size: 21px;
+}
+.top-outcomes {
+  background: url(../images/bg02.png) repeat 0 0;
+}
+.top-outcomes i {
+  color: #4b98d8;
+}
+.sp-list li {
+  padding: 10px 15px;
+}
