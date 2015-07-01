@@ -1,31 +1,38 @@
-<header class="site-header">
-
-  <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
-      </a>
-
-      <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
-              {{ page.title }}</a>
+<!-- nav is best for accessibility! -->
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse"
+              data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/"><span class="navbar-image"><img src="/images/LogoHM_w.png"> {{ site.title }}</span></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+        {% for navpage in site.pages %}
+          {% if navpage.title %}
+            <li {% if navpage.url == page.url %} class="active" {% endif %}>
+              <a href="{{ navpage.url | prepend: site.baseurl }}">
+                {{ navpage.title }}</a>
+            </li>
           {% endif %}
         {% endfor %}
-        <a class="page-link"
-        href="https://github.com/tech4measurement/tech4measurement.github.io">
-            Edit on GitHub</a>
-      </div>
-    </nav>
-
+      </ul>
+    </div>
   </div>
-
-</header>
+</nav>
+<section class="course">
+  <div class="signup">
+      <h1>Learn to Measure People &amp; the Environment</h1>
+      <h2>with Hands-on Projects using Mobile Devices, the Internet of Things, &amp; Remote
+          Sensing</h2>
+      <h2><strong>Thursday 12-2pm Fall 2015</strong></h2>
+      <p>Instructor: Dr. Dav Clark &amp; guests from startups, industry, and the social sector</p>
+      </div>
+      <a class="btn btn-default" href="/about/" role="button">LEARN MORE</a> <a class="btn btn-primary" href="https://docs.google.com/forms/d/17R1Pjy70x7zI-2QcYnOnYrEGcTXcLx7ma-5ueadYpBw/viewform" target="_blank" role="button">SIGN UP</a>
+  </div>
+</section>

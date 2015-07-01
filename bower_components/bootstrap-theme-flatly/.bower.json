@@ -1,0 +1,34 @@
+{
+  "name": "bootstrap-theme-flatly",
+  "homepage": "https://github.com/victormacae/bootstrap-theme-flatly",
+  "authors": [
+    "victormacae <victormacae@gmail.com>"
+  ],
+  "description": "bootswatch's flatly theme",
+  "main": "flatly.min.css",
+  "keywords": [
+    "bootstrap",
+    "flatly",
+    "bootswatch",
+    "theme"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "README.md"
+  ],
+  "_release": "356f0421d6",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "356f0421d665da3dbe2bbc5165a1f45dd5941e43"
+  },
+  "_source": "git://github.com/victormacae/bootstrap-theme-flatly.git",
+  "_target": "*",
+  "_originalSource": "bootstrap-theme-flatly",
+  "_direct": true
+}

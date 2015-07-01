@@ -1,9 +1,12 @@
-tech4measurement.github.io
+hackingmeasurement.github.io
 --------------------------
 
-This is the [GitHub Pages]() site for <http://tech4measurement.berkeley.edu>.
+This is the [GitHub Pages]() site for <http://hackingmeasurement.berkeley.edu>.
 You should read about [GitHub Pages](), but if you're in a hurry, you can just click on a file,
 followed by clicking the little pencil icon to edit a page. All of the pages are in `_posts`.
+
+To view the site locally for development, you should run `jekyll serve` from the same directory
+as this README.md file.
 
 A few non-obvious details:
 

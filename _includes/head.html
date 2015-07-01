@@ -6,6 +6,14 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
 
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <!-- Moving from the default Jekyll style  - not using site.baseurl, as we
+         own the root domain here -->
+    <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/bower_components/bootstrap-theme-flatly/flatly.min.css">
+    <link rel="stylesheet" href="/bower_components/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/main.css">
+
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 </head>
