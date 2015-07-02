@@ -16,9 +16,7 @@ layout: page
    - EdX
    - IPython
  - Reach out to Data on the Mind
-<<<<<<< HEAD
  - Embodied Underground
  - Understanding Bob's Migranes
-=======
  - Mindful Schools
->>>>>>> origin/master
+
