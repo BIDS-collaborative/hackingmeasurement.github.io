@@ -1,6 +1,12 @@
 body {
   padding-top: 40px;
+  font-family: 'Domine', serif;
 }
+
+h1, h2, h3, h4, h5, h6, .nav, .navbar-header, .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+
 
 /* header */
 .navbar {
@@ -24,6 +30,18 @@ body {
   background: #ecf0f1;
   padding: 40px 20px;
   text-align: center;
+  background: #94aebf url(../images/raspberrypi.jpg) no-repeat center center fixed;
+  background-blend-mode: screen; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.course h1 small {
+  color: #2c3e50; 
+}
+.course i {
+  color: #fff;
 }
 
 /* footer */
@@ -38,6 +56,22 @@ body {
 .footer-icon i {
   color: #4b98d8;
 }
+
+/* layout + include */
+.page-container, .updates-container, .meeting-container, .post-container {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.container h1 {
+  border-bottom: 1px solid #ecf0f1;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+#disqus_thread {
+  padding-top: 40px;
+}
+
 
 /* top page */
 .top-section {
@@ -57,4 +91,16 @@ body {
 }
 .sp-list li {
   padding: 10px 15px;
+}
+
+/* updates */
+.post-list {
+  padding-bottom: 20px;
+}
+.post-list li {
+  margin-top: 10px;
+}
+.post-list h2 {
+  font-size: 21px;
+  margin-top: 0;
 }
