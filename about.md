@@ -23,7 +23,7 @@ nicer page with logos coming soon!)
 
 Thanks to the following strangers on the internet for their Creative Commons images!
 
- - [Raspberry Pi by Johan Larsson] (https://flic.kr/p/cTyh9s)
+ - [Raspberry Pi by Johan Larsson](https://flic.kr/p/cTyh9s)
  - [Nike FuelBand by Peter Parkes](https://flic.kr/p/dKhekh)
  - [Maker Faire Somerville \| Hexapod robot by Chris Devers](https://flic.kr/p/djwTt5)
  - [Cascade Butterfly Project 1 by Mount Rainier National Park](https://flic.kr/p/cKK9mQ)
