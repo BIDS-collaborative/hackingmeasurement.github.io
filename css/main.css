@@ -101,3 +101,26 @@ h1, h2, h3, h4, h5, h6, .nav, .navbar-header, .btn {
   font-size: 21px;
   margin-top: 0;
 }
+
+ /* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) {
+  .navbar-brand {
+    font-size: 14px;
+    padding: 15px 10px;
+  }
+  .navbar-image img {
+    height: 35px;
+    width: auto;
+    margin-top: -2px;
+    margin-right: 5px;
+  }
+  h1 {
+    font-size: 30px;
+  }
+  h2 {
+    font-size: 24px;
+  }
+  h3, .top-section h3 {
+    font-size: 18px;
+  }
+}
