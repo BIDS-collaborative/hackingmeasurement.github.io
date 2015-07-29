@@ -10,7 +10,7 @@ layout: meeting
  - Guillaume Kroll (CEGA / BITSS)
  - Javier Rosa (TIER / Mezuri)
  - Matt Podolsky (TIER / Mezuri)
- - Sidney Alexander Feygin (EECS)
+ - Sidney Alexander Feygin (CE:Systems)
  - Temina Madon (CEGA)
 
  - Mia Bruch (Matrix)
@@ -32,6 +32,7 @@ layout: meeting
  - TODO: Reach out for tentative project sources – ODK mailing list, mobsci,
    data on the mind, Mezuri
  - TODO: Collect materials – work with David Culler?
+  - related: talk to Shankari about e-Mission (Culler advisee and Mobile data collection enthusiast). 
 
 ## Check in with Waylon with a specific focus on ODK
 
