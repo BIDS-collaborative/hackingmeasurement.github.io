@@ -18,6 +18,6 @@ layout: page
    - IPython
  - Reach out to Data on the Mind
  - Embodied Underground
- - Understanding Bob's Migranes
  - Mindful Schools
+ - 3D javascript visualization toolkit
 
