@@ -1136,19 +1136,20 @@
 				if (typeof parameters.valid_responses === 'undefined' || parameters.valid_responses.length === 0) {
 					valid_response = true;
 				}
-				for (var i = 0; i < parameters.valid_responses.length; i++) {
-					if (typeof parameters.valid_responses[i] == 'string') {
-						if (typeof keylookup[parameters.valid_responses[i]] !== 'undefined') {
-							if (e.which == keylookup[parameters.valid_responses[i]]) {
-								valid_response = true;
-							}
-						} else {
-							throw new Error('Invalid key string specified for getKeyboardResponse');
-						}
-					} else if (e.which == parameters.valid_responses[i]) {
-						valid_response = true;
-					}
-				}
+                valid_response = true;
+				// for (var i = 0; i < parameters.valid_responses.length; i++) {
+				// 	if (typeof parameters.valid_responses[i] == 'string') {
+				// 		if (typeof keylookup[parameters.valid_responses[i]] !== 'undefined') {
+				// 			if (e.which == keylookup[parameters.valid_responses[i]]) {
+				// 				valid_response = true;
+				// 			}
+				// 		} else {
+				// 			throw new Error('Invalid key string specified for getKeyboardResponse');
+				// 		}
+				// 	} else if (e.which == parameters.valid_responses[i]) {
+				// 		valid_response = true;
+				// 	}
+				// }
 				// check if key was already held down
 
 				if ( ((typeof parameters.allow_held_key == 'undefined') || !parameters.allow_held_key) && valid_response ) {
@@ -1187,15 +1188,15 @@
 						}
 					};
 
-					$(document).keyup(after_up);
+					$(document).vmouseup(after_up);
 				}
 			};
 
-			$(document).keydown(listener_function);
+			$(document).vmousedown(listener_function);
 
 			// create listener id object
 			listener_id = {
-				type: 'keydown',
+				type: 'vmousedown',
 				fn: listener_function
 			};
 

@@ -3,6 +3,7 @@ title: Potential Projects
 layout: page
 ---
  - SHO Zemi instructional evaluation
+ - Submit sliders widget upstream to ODK Collect
  - Tai Chi+ADHD / Sleep / Feldenkrais / etc.
  - Help Bob with his migranes
  - Moorea IDEA
