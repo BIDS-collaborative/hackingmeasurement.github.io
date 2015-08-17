@@ -6,6 +6,8 @@ comments: true
 ---
 {% include orgs.md %}
 
+**Presenters can indicate their free times at [this poll](http://doodle.com/zkbndtimykd3g59v)**
+
 ## Course Description
 
 This course addresses the fast-growing area of social and environmental

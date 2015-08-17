@@ -20,4 +20,5 @@ layout: page
  - Embodied Underground
  - Mindful Schools
  - 3D javascript visualization toolkit
+ - Submit Sid's ODK mods upstream
 
