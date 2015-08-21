@@ -11,4 +11,5 @@ Sometimes you want a more sophisticated setup.
 
 ## Tentative plan
 
- - Connecting to Arduinos with Bluetooth
+ - Bridging to Arduinos with Bluetooth
+ - Basic data management
