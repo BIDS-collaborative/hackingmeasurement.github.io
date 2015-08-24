@@ -1,0 +1,41 @@
+Basic kit
+-- power
+-- Uno
+-- Breadboard
+-- LEDs
+-- Buttons
+
+Datalogging 
+-- SD Card 
+-- RTC
+
+Sensors
+-- Temperature
+-- Light sensor
+-- PIR
+
+Budget: 6 kits at $50 each
+15 Basic Kit: SunFounder Project Universal Starter Kit For Arduino UNO R3 Mega2560 Mega328 Nano
+10 Data logger
+25 Sensors
+
+Sensors
+6x
+-- Temp: 1.8
+-- Current clamp 10
+-- PIR: (free)
+-- Accelerometers: 10
+-- Power cord: 3
+
+Single Sensor
+-- Gesture
+
+Other Per User Purchases
+-- SD Cards: 5
+
+Gateways
+
+Purchase
+-- 2 BeagleBone Blacks
+
+Ideas
