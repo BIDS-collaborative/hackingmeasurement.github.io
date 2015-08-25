@@ -1,5 +1,5 @@
 ---
-title: Intel Data Sense
+title: Scaling Up
 author: Dav Clark
 presenters:
 layout: class
@@ -12,4 +12,7 @@ layout: class
 
 
 ## Tentative plan
+
+ - Jorrit talks about his IDEA interactions (may also fit in data management)
+ - Javier has a contact who works as a consultant
 
