@@ -14,3 +14,4 @@ layout: class
 
 ## Tentative plan
 
+ - Jorrit talks about his IDEA interactions (may also fit in data management)

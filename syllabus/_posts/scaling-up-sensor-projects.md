@@ -12,7 +12,5 @@ layout: class
 
 
 ## Tentative plan
-
- - Jorrit talks about his IDEA interactions (may also fit in data management)
- - Javier has a contact who works as a consultant
-
+ - Case studies (led by Javier)
+ - Malcolm works as a consultant on scaling up, he will talk about how to work
