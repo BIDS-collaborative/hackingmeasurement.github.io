@@ -11,5 +11,9 @@ Sometimes you want a more sophisticated setup.
 
 ## Tentative plan
 
- - Bridging to Arduinos with Bluetooth
+ - Bridging to Arduinos with Bluetooth and serial
+ - Establishing and maintaing reliable connections
+ - Micro-databases and communications protocols
+ - Networking peripherals
  - Basic data management
+ - Advanced sensors
