@@ -2,23 +2,51 @@
 title: Potential Projects
 layout: page
 ---
- - SHO Zemi instructional evaluation
- - Submit sliders widget upstream to ODK Collect
+<ul class="post-list list-unstyled">
+
+    {% for proj in site.pages %}
+        {{ proj.categories }}
+        {% if proj.url contains 'projects/' %}
+
+        <li>
+            <h2>
+                <a class="post-link"
+                    href="{{ proj.url | prepend: site.baseurl }}">
+                        {{ proj.title }}
+                </a>
+            </h2>
+            <dl class="dl-horizontal">
+                <dt>Client:</dt>
+                <dd>{{ proj.client }}</dd>
+
+                {% if proj.team %}
+                <dt>Team:</dt>
+                <dd>{{ proj.team }}</dd>
+                {% endif %}
+
+                {% if proj.mentor %}
+                <dt>Mentor:</dt>
+                <dd>{{ proj.mentor }}</dd>
+                {% endif %}
+            </dl>
+        </li>
+
+        {% endif %}
+    {% endfor %}
+</ul>
+
+### Currently unprocessed / potential projects
+
+ - Submit Sid's sliders widget upstream to ODK Collect
  - Tai Chi+ADHD / Sleep / Feldenkrais / etc.
- - Help Bob with his migranes
- - Moorea IDEA
  - SFZC meditation app
  - Stress management with Pablo Paredes and John Canny
  - TIER / Mezuri
    - Documentation
- - Collaborations:
-   - UW
  - Quantified data science (analysis of development communities)
    - EdX
    - IPython
- - Reach out to Data on the Mind
  - Embodied Underground
  - Mindful Schools
  - 3D javascript visualization toolkit
- - Submit Sid's ODK mods upstream
 
