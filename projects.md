@@ -37,16 +37,11 @@ layout: page
 
 ### Currently unprocessed / potential projects
 
- - Submit Sid's sliders widget upstream to ODK Collect
  - Tai Chi+ADHD / Sleep / Feldenkrais / etc.
  - SFZC meditation app
  - Stress management with Pablo Paredes and John Canny
  - TIER / Mezuri
    - Documentation
- - Quantified data science (analysis of development communities)
-   - EdX
-   - IPython
  - Embodied Underground
  - Mindful Schools
  - 3D javascript visualization toolkit
-
