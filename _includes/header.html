@@ -14,11 +14,13 @@
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">
         {% for navpage in site.pages %}
-          {% if navpage.title %}
+        {% if navpage.title %}
+          {% unless navpage.url contains 'projects/' %}
             <li {% if navpage.url == page.url %} class="active" {% endif %}>
               <a href="{{ navpage.url | prepend: site.baseurl }}">
                 {{ navpage.title }}</a>
             </li>
+          {% endunless %}
           {% endif %}
         {% endfor %}
       </ul>
