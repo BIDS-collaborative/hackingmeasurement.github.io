@@ -16,8 +16,7 @@ hands-on learning.
 
 Tech4Measurement is an initiative of the Data Science Collaborative at BIDS and
 Glass Bead Labs. We draw on support from the Siemens Web of Things group, BIDS,
-the Social Science Matrix, the I School, the D-Lab, CEGA, DIL, and others. (A
-nicer page with logos coming soon!)
+the Social Science Matrix, the I School, the D-Lab, CEGA, DIL, and others.
 
 ## Credits
 
