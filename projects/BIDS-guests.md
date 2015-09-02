@@ -1,5 +1,5 @@
 ---
-title: Keeping Track of Guests in BIDS
+title: Campus Pass System
 client: Kevin Koy
 mentor:
 team:
