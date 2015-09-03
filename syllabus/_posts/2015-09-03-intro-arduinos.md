@@ -4,11 +4,44 @@ author: Dav Clark
 presenters: Javier Rosa
 layout: meeting
 ---
+## Announcements
+
+Upcoming events at [ManyLabs]():
+
+ - Plant boxes for 2nd graders in SOMA
+ - Nerds for Nature Hackathon
+ - Stay tuned for details!
+
+## Kick-starting team formation
+
+We'll circulate through the room, and start assigning folks to teams. We'll
+have facilitators organizing the projects throughout the room.
+
+Dav:
+
+ - BIDS Guests
+ - Ecostations Data Access Monitor (EDAM)
+ - HOLOS / EcoEngine (preview, but no specific project yet)
+ - ODK contributions
+ - Clinton Global Health Access (preview, specific projects en route)
+ - Primary education tutoring
+
+Temina:
+
+ - BITSS open data audit
+ - CEGA impact
+
+Anthony:
+
+ - Aurorasaurus for protest observation
+ - Berkeley seismology visualizations
+ - ManyLabs air quality sensors
+ - (John Naulty if in the room) NeurotechX (preview, pending specific project)
 
 ## Arduinos as a basic platform
 
 
-## Reading / Tech
+### Reading / Tech
 
 You are highly encouraged to buy your own Arduino and related electronics!
 However, we will provide teams of 2-4 with sufficient materials to complete all
@@ -18,7 +51,7 @@ Please read up on arduinos on the internet. Keep track of interesting URLs you
 find. Good places to start are adafruit and sparkfun (they will also try to
 sell you things).
 
-## Tentative plan
+### Tentative plan
 
  - Intro to sensor-based projects
     - GPS monitoring of water collection habits

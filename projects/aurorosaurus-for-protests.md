@@ -1,6 +1,7 @@
 ---
 title: Aurorosaurus for Protest Observation
 client: Dr. Nick Adams
+topic: Mobile / Web crowdsourced observations
 mentor:
 team:
 layout: project

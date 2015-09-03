@@ -1,6 +1,7 @@
 ---
 title: Air Quality Sensors with ManyLabs
 client: Peter Sand
+topic: Mobile sensor platform, integration of many sensors.
 mentor:
 team:
 layout: project

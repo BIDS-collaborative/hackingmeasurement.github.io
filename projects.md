@@ -16,6 +16,9 @@ layout: page
                 </a>
             </h2>
             <dl class="dl-horizontal">
+                <dt>Topic:</dt>
+                <dd>{{ proj.topic }}</dd>
+
                 <dt>Client:</dt>
                 <dd>{{ proj.client }}</dd>
 
@@ -42,8 +45,9 @@ layout: page
  - Stress management with Pablo Paredes and John Canny
  - TIER / Mezuri
    - Documentation
- - Embodied Underground
  - Mindful Schools
  - 3D javascript visualization toolkit
  - NOAA Satellite date [currently being
    released](https://data-alliance.noaa.gov/).
+ - Smart mobile health devices and "fragile connection" optimized data
+   collection

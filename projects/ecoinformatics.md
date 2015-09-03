@@ -1,6 +1,7 @@
 ---
-title: HOLOS EcoEngine
+title: HOLOS EcoEngine (Tech preview only)
 client: Michelle Koo
+topic: Geospatial data integration?
 mentor: 
 team: 
 layout: project
@@ -37,3 +38,15 @@ change. The Ecoengine serves to unite previously disconnected perspectives from
 paleo-ecologists, population biologists, and ecologists and make possible the
 testing of predictive models of global change, a critical advance in making the
 science more rigorous.
+
+## Potential project
+
+Build a "collector tracker" / competition dashboard.
+
+This map driven dashboard that allows a user to navigate the specimen
+collections of any particular scientist, by name.
+
+ - Visualize all collecting events on the map
+ - chart what kind of species were collected by any one person
+ - Who collected to most by number, most by diversity, etc.
+ - Who covered the most area

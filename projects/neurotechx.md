@@ -1,6 +1,7 @@
 ---
-title: NeurotechX
+title: NeurotechX (Preview, pending project)
 client: John Naulty
+topic: Biosensor integration for neuroscience
 mentor:
 team:
 layout: project

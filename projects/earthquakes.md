@@ -1,6 +1,7 @@
 ---
 title: Earthquake Measurement and Visualization
 client: Robert Nadeau
+topic: Reimplementation of visualizations
 mentor: 
 team:
 layout: project

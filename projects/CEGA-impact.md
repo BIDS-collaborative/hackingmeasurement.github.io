@@ -1,6 +1,7 @@
 ---
 title: Measuring CEGA's impact
 client: Temina Madon
+topic: Heterogeneous web / text scraping, integration
 mentor:
 team:
 layout: project

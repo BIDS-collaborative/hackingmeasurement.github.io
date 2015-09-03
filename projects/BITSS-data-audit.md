@@ -1,6 +1,7 @@
 ---
 title: Auditing Open Data Publications with BITSS
 client: Temina Madon
+topic: Scraping journals and web links, data management
 mentor:
 team:
 layout: project

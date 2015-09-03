@@ -1,7 +1,8 @@
 ---
 title: Campus Pass System
 client: Kevin Koy
-mentor:
+topic: Web, computer vision, and RFID integration
+mentor: @davclark
 team:
 layout: project
 ---
@@ -23,3 +24,6 @@ system to scan arbitrary ID cards.
 We'll begin by connecting these pre-existing technologies. If time permits, we
 may persue other forms of tracking, including the exploration of more whimsical
 ideas at ManyLabs.
+
+We will also seek to incorporate existing approaches used by other campus
+groups, including the Library's Data Lab, and the Citris Innovations Labs.

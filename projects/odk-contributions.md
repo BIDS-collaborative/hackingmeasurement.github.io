@@ -1,6 +1,7 @@
 ---
 title: Contributing to the Open Development Kit (ODK)
 client: Dav Clark
+topic: Java and Xforms code audit, submission to open source project
 mentor: Sid?
 team:
 layout: project
