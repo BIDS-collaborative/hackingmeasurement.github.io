@@ -1,6 +1,6 @@
 ---
 title: HOLOS EcoEngine
-client: Kevin Koy
+client: Michelle Koo
 mentor: 
 team: 
 layout: project
