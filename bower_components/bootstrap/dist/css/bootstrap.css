@@ -1463,7 +1463,7 @@ dd {
     white-space: nowrap;
   }
   .dl-horizontal dd {
-    margin-left: 180px;
+    margin-left: 0px;
   }
 }
 abbr[title],
