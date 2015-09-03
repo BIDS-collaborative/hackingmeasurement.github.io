@@ -6,7 +6,7 @@ layout: meeting
 ---
 ## Announcements
 
-Upcoming events at [ManyLabs]():
+Upcoming events at [ManyLabs](https://www.manylabs.org/):
 
  - Work party this coming Thursday, September 10 from 4-6 PM [at
    ManyLabs](https://www.google.com/maps/place/Manylabs/@37.777164,-122.407709,17z/data=!4m3!3m2!1s0x80858082235da2e7:0xb30be4b717ffde73!4b1).
