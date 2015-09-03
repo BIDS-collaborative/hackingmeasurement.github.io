@@ -8,9 +8,11 @@ layout: meeting
 
 Upcoming events at [ManyLabs]():
 
- - Plant boxes for 2nd graders in SOMA
- - Nerds for Nature Hackathon
- - Stay tuned for details!
+ - Work party this coming Thursday, September 10 from 4-6 PM [at
+   ManyLabs](https://www.google.com/maps/place/Manylabs/@37.777164,-122.407709,17z/data=!4m3!3m2!1s0x80858082235da2e7:0xb30be4b717ffde73!4b1).
+   We will be building plant boxes for 2nd graders that will be rolled from the
+   exhibit space to outside.
+ - Stay tuned for more exciting events!
 
 ## Kick-starting team formation
 
