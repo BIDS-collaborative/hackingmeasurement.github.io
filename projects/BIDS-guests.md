@@ -2,7 +2,7 @@
 title: Campus Pass System
 client: Kevin Koy
 topic: Web, computer vision, and RFID integration
-mentor: @davclark
+mentor: '@davclark'
 team:
 layout: project
 ---
