@@ -609,7 +609,7 @@ dd {
     float: left;
     width: 160px;
     clear: left;
-    text-align: right;
+    text-align: left;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
