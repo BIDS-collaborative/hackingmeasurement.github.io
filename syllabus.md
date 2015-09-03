@@ -20,8 +20,7 @@ basic visualization and exploratory data analysis; statistics and/or machine
 learning are not expected.  We will leverage support from the [Social Science
 Matrix][Matrix], the [D-Lab][Dlab], [BIDS][BIDS], and [Berkeley Research
 Computing][BRC] to provide necessary training, hardware, and compute resources.
-This course is being offered as a part of the [Data Science Collaborative][DSC]
-at [BIDS][BIDS].
+This course is being offered as a part of the [BIDS Collaborative][DSC].
 
 Students will work with project clients, who will help determine the project
 roadmap. Note that the primary goal of the course is educational -- solving the
