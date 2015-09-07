@@ -70,5 +70,3 @@ sell you things).
     - Open Energy Monitor (an open source power monitoring project)
     - Flexbox project 
     - Clamp sensors to measure current
- - Interfacing the Arduino with a sensor (using Arduino C)
- - Getting data from an Arduino to a computer with SD cards
