@@ -2,7 +2,7 @@
 title: Intro to Arduinos, Collaborative Projects
 author: Dav Clark
 presenters: Javier Rosa
-layout: meeting
+layout: class
 ---
 ## Announcements
 

@@ -1,8 +1,8 @@
 ---
-title: Hands-on: Get Sensor Data from your Arduino!
+title: "Hands-on: Get Sensor Data from your Arduino!"
 author: Dav Clark
 presenters: Javier Rosa, Dav Clark
-layout: meeting
+layout: class
 ---
 ## Announcements
 
@@ -13,9 +13,26 @@ Reminder, event at [ManyLabs](https://www.manylabs.org/):
    We will be building plant boxes for 2nd graders that will be rolled from the
    exhibit space to outside.
 
-## Advanced topics with Arduinos
+## Review of expectations / updated syllabus
 
-Sometimes you want a more sophisticated setup.
+I've added greater clarity around grading on [the syllabus
+page](syllabus.html). We'll review this briefly at the beginning of class. In
+particular, be sure that I have your GitHub ID [using this
+issue](https://github.com/BIDS-collaborative/hackingmeasurement.github.io/issues/33),
+and that you've joined the Gitter chat room (linked at the footer of every page
+on the site).
+
+## Hands-on with Arduinos
+
+We've had a conceptual introdution, but this week, we'll start programming and
+getting data. A limited number of kits will be available, and priority will be
+given to individuals who are formally enrolled in the course and/or on project
+teams.
+
+You can get a kit of your own for cheap, and this is encouraged! This way you
+can engage more easily in your own projects and feel more free to do anything
+you dream up. Let us know if you want help ordering (you can find us on the
+Gitter chat, linked in the footer below).
 
 ## Tentative plan
 

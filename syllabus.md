@@ -102,7 +102,21 @@ Please note, the curriculum is very much a work in progress.
 
 ## Grading
 
-Percentage breakdown TBD.
+Students enrolled in the class will get an A if they do all of the following, a
+B if they partially complete at least all 3 items, and an incomplete otherwise.
+This is meant to be a *very light* burden:
+
+ 1. Take notes or collect followup notes for at least one class,
+ 2. Make some progress on a project, document this, share it with another team,
+    and incorporate feedback, and
+ 3. Provide such feedback to another team
+
+Pre-requesite to the above are participation in the basic class systems
+organized around GitHub. At a minimum, you will need to have a GitHub account
+that gets associated with the class website and join our Gitter chat forum to
+communicate with the class.
+
+A general rubric for providing feedback is as follows:
 
  - Clarity / reproducibility of methods and results (presented on GitHub,
    assessed twice at mid-semester and final, strongly weighted towards final).
