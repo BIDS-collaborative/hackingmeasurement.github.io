@@ -1,6 +1,6 @@
 ---
 title: Ecostations Data Access Monitor (EDAM)
-client: Jorrit Poelen
+client: Jorrit Poelen, EDAM
 topic: Large-scale data integration, web-standards "database", and visualization
 mentor:
 team:
