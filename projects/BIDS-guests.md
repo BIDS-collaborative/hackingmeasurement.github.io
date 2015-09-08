@@ -1,6 +1,6 @@
 ---
 title: Campus Pass System
-client: Kevin Koy
+client: Kevin Koy, BIDS
 topic: Web, computer vision, and RFID integration
 mentor: '@davclark'
 team:
