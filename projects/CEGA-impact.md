@@ -1,6 +1,6 @@
 ---
 title: Measuring CEGA's impact
-client: Temina Madon
+client: Temina Madon, Center for Effective Global Action
 topic: Heterogeneous web / text scraping, integration
 mentor:
 team:
