@@ -1,6 +1,6 @@
 ---
 title: Auditing Open Data Publications with BITSS
-client: Temina Madon
+client: Temina Madonk, Center for Effective Global Action
 topic: Scraping journals and web links, data management
 mentor:
 team:
