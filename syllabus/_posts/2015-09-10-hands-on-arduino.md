@@ -6,13 +6,15 @@ layout: class
 ---
 ## Required Software
 
-This stuff is critical for one team-member to have ready on their laptop:
+This stuff is critical for one team-member to have ready on their laptop, but
+the more the merrier!
 
  - Download and install the [Arduino
    IDE](https://www.arduino.cc/en/Main/Software).
  - Ensure you have Python 2.7 installed with PySerial. The easiest way to do
    this (on Windows, Mac, or Linux) is with [Continuum
    Anaconda](http://continuum.io/downloads).
+ - [Fritzing](http://fritzing.org/home/).
 
 ## Reading
 
@@ -56,6 +58,6 @@ Gitter chat, linked in the footer below).
 
 We'll see how far we get, and move what's left to a later class:
 
- - Interfacing the Arduino with basic sensors (using Arduino C)
+ - Interfacing the Arduino™ with basic sensors (using Arduino C)
  - Getting data from an Arduino to a computer with SD cards
  - Bridging to Arduinos with serial
