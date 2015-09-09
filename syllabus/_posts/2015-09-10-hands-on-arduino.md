@@ -56,11 +56,6 @@ Gitter chat, linked in the footer below).
 
 We'll see how far we get, and move what's left to a later class:
 
- - Interfacing the Arduino with a sensor (using Arduino C)
+ - Interfacing the Arduino with basic sensors (using Arduino C)
  - Getting data from an Arduino to a computer with SD cards
- - Bridging to Arduinos with Bluetooth and serial
- - Establishing and maintaining reliable connections
- - Micro-databases and communications protocols
- - Networking peripherals
- - Basic data management
- - Advanced sensors
+ - Bridging to Arduinos with serial
