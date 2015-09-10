@@ -23,6 +23,9 @@ the more the merrier!
  - If you're curious for more detail, we're working with *clones* of the [open
    hardware](https://en.wikipedia.org/wiki/Open-source_hardware) [Arduino
    UNOs](https://www.arduino.cc/en/Main/ArduinoBoardUno).
+ - *Alternatively* here's [a nice one-page intro to
+   Arduino](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
+   from [Teach me to Make](http://teachmetomake.com/).
 
 ## Announcements
 
