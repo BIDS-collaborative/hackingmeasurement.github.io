@@ -73,7 +73,7 @@ sell you things).
 
 ---
 
-# Notes from Class
+## Notes from Class
 
 Second meeting: 2015-09-03.
 
