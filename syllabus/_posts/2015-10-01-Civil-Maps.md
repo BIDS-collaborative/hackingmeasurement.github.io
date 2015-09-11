@@ -7,8 +7,8 @@ layout: class
 
 ## Background information
 
-[Civil Maps](https://civilmaps.com/) integrates large 3D datasets to enable
-planning of large scale civil projects.
+[Civil Maps](https://civilmaps.com/) enables on-demand perception and actuation
+of the world around us, by collecting and analyzing spatial data.
 
 ## Tentative plan
 
