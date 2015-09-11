@@ -10,8 +10,12 @@ layout: class
 [Civil Maps](https://civilmaps.com/) integrates large 3D datasets to enable
 planning of large scale civil projects.
 
-## Reading / Tech
-
-
 ## Tentative plan
 
+ -the evolution of surveying (in history, and in recent times)
+ -Lidar and photogrammetry technologies: point clouds, maps and reports
+ -the data problem (traditional approaches)
+ -Civil Maps approach: AI / Machine Vision solutions
+ -CM system architecture
+ -CM technical metrics (performance)
+ -Vision and future directions
