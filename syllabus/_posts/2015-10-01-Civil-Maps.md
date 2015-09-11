@@ -12,10 +12,10 @@ planning of large scale civil projects.
 
 ## Tentative plan
 
- -the evolution of surveying (in history, and in recent times)
- -Lidar and photogrammetry technologies: point clouds, maps and reports
- -the data problem (traditional approaches)
- -Civil Maps approach: AI / Machine Vision solutions
- -CM system architecture
- -CM technical metrics (performance)
- -Vision and future directions
+ - The evolution of surveying (in history, and in recent times)
+ - Lidar and photogrammetry technologies: point clouds, maps and reports
+ - The data problem (traditional approaches)
+ - Civil Maps approach: AI / Machine Vision solutions
+ - CM system architecture
+ - CM technical metrics (performance)
+ - Vision and future directions
