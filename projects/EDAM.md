@@ -6,6 +6,13 @@ mentor:
 team:
 layout: project
 ---
+## Project links
+
+ - [EDAM GitHub repo](https://github.com/BIDS-collaborative/EDAM)
+ - [EDAM on
+   ![Gitter](https://badges.gitter.im/Join%20Chat.svg)
+   ](https://gitter.im/BIDS-collaborative/EDAM)
+
 ## Background
 
 This will be phase 1 of a larger project to construct species lists, food webs
