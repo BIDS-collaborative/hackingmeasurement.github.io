@@ -25,6 +25,9 @@ repo](https://github.com/BIDS-collaborative/EDAM) and I've added some info on
 my leg-work for testing air quality sensors in [an
 issue](https://github.com/BIDS-collaborative/air-quality/issues/2).
 
+It is also critical that each team have a lead who will be responsible for
+communicating with the class facilitators (like me).
+
 Javier will also be on hand to help folks who want to review anything from the
 previous seminar on Arduino, including discussing any future hardware plans you
 may be forming.
