@@ -7,8 +7,8 @@ layout: class
 
 ## Background information
 
-Dawn Nafus (@dnafus) is an Anthropologist leading Intel's Data Sense team.
-Evan Savage (@candu) is a member of the Data Sense team.
+- Dawn Nafus (@dnafus) is an Anthropologist leading Intel's Data Sense team.
+- Evan Savage (@candu) is a member of the Data Sense team.
 
 ## Reading / Tech
 
@@ -18,7 +18,7 @@ Evan Savage (@candu) is a member of the Data Sense team.
   - [Dawn's intro to an upcoming Quantified Self
     text](/syllabus/presenter-materials/Nafus Introduction to Quanified.pdf)
   - (much lighter) [Data Data
-    Everywhre](https://www.epicpeople.org/data-data-everywhere/) article.
+    Everywhere](https://www.epicpeople.org/data-data-everywhere/) article.
 
 ## Tentative plan
 
