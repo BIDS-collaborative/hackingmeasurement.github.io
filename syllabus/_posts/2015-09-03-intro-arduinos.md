@@ -42,7 +42,7 @@ Anthony:
 
 ## Arduinos as a basic platform
 
-[Slides from Javier](/syllabus/presenter-materials/building-sensors.pdf)
+[Slides from Javier](/syllabus/presenter-materials/Building-Sensors.pdf)
 
 ### Reading / Tech
 
