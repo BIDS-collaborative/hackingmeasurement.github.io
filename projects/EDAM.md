@@ -68,7 +68,7 @@ name | github handle | nano-bio
 Jorrit Poelen | @jhpoelen | freelance software engineer building open tools for open data 
 Jonathan Wang | @jonathanwang017 | junior studying CS / Stats 
 Daniel Kim | @Minsu-Daniel-Kim | junior studying CS / Statistics
-Nisreen Hejab| nhejab | Ph.D student in Biophysics/Structural Biology
+Nisreen Hejab| @nhejab | Ph.D student in Biophysics/Structural Biology
 Carlo Liquido | @koalaboy808 | Graduate student in School of Information
 {: .table}
 
