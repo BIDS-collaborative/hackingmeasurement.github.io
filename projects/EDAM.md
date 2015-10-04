@@ -61,6 +61,17 @@ In order to archieve EDAM Phase I, we need to:
  7. create a visualization to make results (and associated data sources) easy
     to access.
 
+## Contributors
+
+name | github handle | nano-bio 
+--- | --- | ---
+Jorrit Poelen | @jhpoelen | freelance software engineer building open tools for open data 
+Jonathan Wang | @jonathanwang017 | junior studying CS / Stats 
+Daniel Kim | @Minsu-Daniel-Kim | junior studying CS / Statistics
+Nisreen Hejab| nhejab | Ph.D student in Biophysics/Structural Biology
+Carlo Liquido | @koalaboy808 | Graduate student in School of Information
+
+
 Given that the data is already available and the limited scope of needed data
 processing capabilities, a first prototype of EDAM Phase I is estimated to take
 2-3 months for a group of digitally literate graduate students with allocation
