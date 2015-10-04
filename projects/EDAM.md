@@ -70,6 +70,7 @@ Jonathan Wang | @jonathanwang017 | junior studying CS / Stats
 Daniel Kim | @Minsu-Daniel-Kim | junior studying CS / Statistics
 Nisreen Hejab| nhejab | Ph.D student in Biophysics/Structural Biology
 Carlo Liquido | @koalaboy808 | Graduate student in School of Information
+{: .table}
 
 
 Given that the data is already available and the limited scope of needed data
