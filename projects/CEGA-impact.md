@@ -6,9 +6,13 @@ mentor:
 team:
 layout: project
 ---
+## Project Links
+[cega-trace GitHub repo](https://github.com/BIDS-collaborative/cega-trace)  
+[cega-trace on Gitter](https://gitter.im/BIDS-collaborative/cega-trace)  
+
 ## About CEGA
 
-The Center for Effective Global Action (CEGA) designs and tests solutions for
+The [Center for Effective Global Action (CEGA)](http://cega.org) designs and tests solutions for
 the problems of poverty, generating actionable evidence for policy-makers in
 less developed countries. We are a West Coast network of researchers using
 rigorous field trials, behavioral experiments, and tools from data science to
