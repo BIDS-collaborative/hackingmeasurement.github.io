@@ -1,5 +1,5 @@
 ---
-title: Potential Projects
+title: Projects
 layout: page
 ---
 <ul class="post-list list-unstyled">
