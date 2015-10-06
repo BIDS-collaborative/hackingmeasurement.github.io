@@ -16,11 +16,13 @@
         {% for navpage in site.pages %}
         {% if navpage.title %}
           {% unless navpage.url contains 'projects/' %}
+            {% unless navpage.exclude %}
             <li {% if navpage.url == page.url %} class="active" {% endif %}>
               <a href="{{ navpage.url | prepend: site.baseurl }}">
                 {{ navpage.title }}</a>
             </li>
-          {% endunless %}
+             {% endunless %}
+            {% endunless %}
           {% endif %}
         {% endfor %}
       </ul>

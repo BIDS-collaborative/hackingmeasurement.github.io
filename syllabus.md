@@ -38,28 +38,7 @@ semester! Students will likely need to do additional learning to develop
 meaningful skills.  Available resources on campus (e.g., in [D-Lab][Dlab] and
 [BIDS][BIDS]) will be advertised to course participants.
 
-## Planned classes
-
-<ul class="post-list list-unstyled">
-
-    {% for post in site.categories.syllabus reversed %}
-
-        <li>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} 
-                {% if post.presenters %}
-                    – {{ post.presenters }}
-                {% endif %}
-            </span>
-            <h2>
-                <a class="post-link"
-                   href="{{ post.url | prepend: site.baseurl }}">
-                     {{ post.title }}
-                </a>
-            </h2>
-        </li>
-    {% endfor %}
-
-</ul>
+{% include seminars.html %}
 
 ## Aspirational Curriculum - Subject to change!
 
