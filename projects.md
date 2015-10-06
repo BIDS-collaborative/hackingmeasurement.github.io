@@ -37,18 +37,3 @@ layout: page
         {% endif %}
     {% endfor %}
 </ul>
-
-### Currently unprocessed / potential projects
-
- - Tai Chi+ADHD / Sleep / Feldenkrais / etc.
- - SFZC meditation app
- - Stress management with Pablo Paredes and John Canny
- - TIER / Mezuri
-   - Documentation
- - Mindful Schools
- - 3D javascript visualization toolkit
- - NOAA Satellite date [currently being
-   released](https://data-alliance.noaa.gov/).
- - Smart mobile health devices and "fragile connection" optimized data
-   collection
- - [The Carpool Project](https://github.com/BIDS-collaborative/the-carpool-project)
