@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 {% include orgs.md %}
 
@@ -17,15 +16,18 @@ hands-on learning.
   <div class="container">
     <div class="row">
       <div class="col-md-4">
-        <img src="images/pic-NikeFuelBand.jpg" class="img-thumbnail"><br><h3>Quantified Self</h3>
+        <img src="/images/pic-NikeFuelBand.jpg" class="img-thumbnail"> <br>
+        <h3>Quantified Self</h3>
       </div>
       <div class="col-md-4">
-        <img src="images/pic-Hexapod.jpg" class="img-thumbnail"><br><h3>Maker Culture</h3>
+        <img src="/images/pic-Hexapod.jpg" class="img-thumbnail"> <br>
+        <h3>Maker Culture</h3>
       </div>
       <div class="col-md-4">
-        <img src="images/pic-CascadeButterfly.jpg" class="img-thumbnail"><br><h3>Citizen Science</h3>
+        <img src="/images/pic-CascadeButterfly.jpg" class="img-thumbnail"> <br>
+        <h3>Citizen Science</h3>
       </div>
-      <small>Image credits on <a href="/about">about page</a>
+      <small>Image credits below</small>
     </div>
   </div>
 </div>
@@ -35,17 +37,21 @@ hands-on learning.
   <div class="container">
     <div class="row">
       <div class="col-md-4">
-        <i class="fa fa-pie-chart fa-3x"></i><br><h3>Orientation to different approaches to measurement</h3>
+        <i class="fa fa-pie-chart fa-3x"></i> <br>
+        <h3>Orientation to different approaches to measurement</h3>
       </div>
       <div class="col-md-4">
-        <i class="fa fa-gavel fa-3x"></i><br><h3>Technical project skills</h3>
+        <i class="fa fa-gavel fa-3x"></i> <br>
+        <h3>Technical project skills</h3>
       </div>
       <div class="col-md-4">
-        <i class="fa fa-users fa-3x"></i><br><h3>Experiences through project-based learning</h3>
+        <i class="fa fa-users fa-3x"></i> <br>
+        <h3>Experiences through project-based learning</h3>
       </div>
     </div>
   </div>
 </div>
+
 
 ## Support
 
@@ -55,11 +61,14 @@ the Social Science Matrix, the I School, the D-Lab, CEGA, DIL, and others.
 
 ## Credits
 
-Thanks to the following strangers on the internet for their Creative Commons images!
+Thanks to the following strangers on the internet for their Creative Commons
+images!
 
  - [Raspberry Pi by Johan Larsson](https://flic.kr/p/cTyh9s)
  - [Nike FuelBand by Peter Parkes](https://flic.kr/p/dKhekh)
- - [Maker Faire Somerville \| Hexapod robot by Chris Devers](https://flic.kr/p/djwTt5)
- - [Cascade Butterfly Project 1 by Mount Rainier National Park](https://flic.kr/p/cKK9mQ)
+ - [Maker Faire Somerville \| Hexapod robot by Chris
+   Devers](https://flic.kr/p/djwTt5)
+ - [Cascade Butterfly Project 1 by Mount Rainier National
+   Park](https://flic.kr/p/cKK9mQ)
 
 Site design by [Kuraraku](http://design.kuraraku.com).
