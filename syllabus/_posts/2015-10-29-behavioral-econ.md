@@ -39,6 +39,10 @@ social design and connection -- ask her about it at the end.
 
 ## Tentative plan
 
-We'll have a 20 minute presentation about Xlab, lab facilities, how to access
-them, IRB clearance, and campus resources for experimental social science.
+**20 minute presentation about Xlab**, lab facilities, how to access them, IRB
+clearance, and campus resources for experimental social science.
 
+**20 minute presentation about Irrational Labs.**
+
+Followed by discussion, and (time allowing) discussion of mobile or web
+approaches to similar research questions.
