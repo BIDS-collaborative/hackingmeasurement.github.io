@@ -34,3 +34,11 @@ contractor.
    any iOS and Android application using the TRNQL SDK.  Naz will also explain
    how you can get join the TRNQL ["code
    competition"](http://trnql.devpost.com/) to create cool contextual apps.
+
+## Notes
+
+Naz provided his [slides](/syllabus/presenter-materials/UXD Design Workshop.berkley.pdf), and some additional links regarding UXD:
+
+1. [UXD Community](http://bit.ly/uxdcommunity)
+2. [UXD Meetup](http://bit.ly/uxdmeetup)
+3. [UXD Udacity class](http://bit.ly/uxdclass)
