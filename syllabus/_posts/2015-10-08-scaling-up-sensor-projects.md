@@ -32,12 +32,14 @@ contractor.
    information on building contextually aware apps. You will read more about
    how to add user-activity recognition, location, and environmental data into
    any iOS and Android application using the TRNQL SDK.  Naz will also explain
-   how you can get join the TRNQL ["code
+   how you can join the TRNQL ["code
    competition"](http://trnql.devpost.com/) to create cool contextual apps.
 
 ## Notes
 
-Naz provided his [slides](/syllabus/presenter-materials/UXD Design Workshop.berkley.pdf), and some additional links regarding UXD:
+Naz provided his
+[slides](/syllabus/presenter-materials/UXD Design Workshop.berkley.pdf),
+and some additional links regarding UXD:
 
 1. [UXD Community](http://bit.ly/uxdcommunity)
 2. [UXD Meetup](http://bit.ly/uxdmeetup)
