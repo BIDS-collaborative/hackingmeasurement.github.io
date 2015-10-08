@@ -37,6 +37,8 @@ contractor.
 
 ## Notes
 
+### TRNQL
+
 Naz provided his
 [slides](/syllabus/presenter-materials/UXD Design Workshop.berkley.pdf),
 and some additional links regarding UXD:
@@ -44,3 +46,66 @@ and some additional links regarding UXD:
 1. [UXD Community](http://bit.ly/uxdcommunity)
 2. [UXD Meetup](http://bit.ly/uxdmeetup)
 3. [UXD Udacity class](http://bit.ly/uxdclass)
+
+### Malcolm / Consulting
+
+**Design**: Problem definition is key and not usually well thought out.
+
+What's the behavior?
+
+- Signal
+- Buttons
+- Interfaces
+
+E.g. A simple button
+
+- What's its size? How does that impact where it can go?
+- How much does it cost?
+- How does it change the enclosure
+
+Freezing the design
+
+- Control Feature Creep
+- How to scope accurately
+- Consultant guide
+
+What type of consultant
+
+- A product can be divided into several key components
+- Shippign
+- Look and feel
+- Electronics
+- Program
+
+Solution Advice
+
+- A continuum from off-the-shelf to custom
+- OTS
+- Modified (usually for packaging)
+- Custom
+
+**Research Projects**: Tend to minimize aesthetics and focus on function
+
+Searching for consultants
+
+- Resume search
+- Recomendations are better
+- Be careful about experience, especially for projects in emerging regions
+
+Be careful of contract types
+
+- Fixed bid
+- Fixed big + time and Materials
+- Time and Materials
+
+Negotiation
+
+- Rates can be negotiated using the contract types as well an Engineer
+- may be willing to do fixed bid work that has a well defined scope over 
+- time and materials work that has a bit more overhead.
+
+Client
+
+- Give a W9 form to your consultant to register with the IRS what you are paying them
+- >$600 implies an IRS 1099 form
+- University handles W9s and 1099s
