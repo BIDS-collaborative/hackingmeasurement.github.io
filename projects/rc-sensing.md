@@ -9,13 +9,13 @@ layout: project
 ## Project links
 
  - [rcSensing GitHub repo](https://github.com/BIDS-collaborative/rcSensing)
- - [EDAM on
+ - [rcSensing on
    ![Gitter](https://badges.gitter.im/Join%20Chat.svg)
    ](https://gitter.im/BIDS-collaborative/rcSensing)
 
 ## Background
 
-Background information
+Background information.
 
 ## Project Description
 
