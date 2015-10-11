@@ -609,13 +609,13 @@ dd {
     float: left;
     width: 160px;
     clear: left;
-    text-align: left;
+    text-align: right;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
   }
   .dl-horizontal dd {
-    margin-left: 0px;
+    margin-left: 180px;
   }
 }
 abbr[title],
