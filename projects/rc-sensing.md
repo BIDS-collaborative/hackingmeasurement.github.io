@@ -2,7 +2,7 @@
 title: rcSensing
 client: Graeme Blair, Rob Blair, Grant Gordon
 topic: Remote Conflict Sensing
-mentor: Javier Rosa
+mentor:
 team: Juan Shishido, Bryan Morgan 
 layout: project
 ---
