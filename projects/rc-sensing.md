@@ -1,9 +1,9 @@
 ---
 title: rcSensing
-client: 
+client: Graeme Blair, Rob Blair, Grant Gordon
 topic: 
-mentor:
-team:
+mentor: 
+team: Juan Shishido, Bryan Morgan 
 layout: project
 ---
 ## Project links
