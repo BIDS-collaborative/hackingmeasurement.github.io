@@ -20,9 +20,9 @@ layout: class
 In order to be able to do these things you need to have a set of tools installed in your computer. 
 Here are some of the tutorials you should check out. 
 
-https://github.com/glass-bead-labs/sensor-group/wiki/Postgresql
-https://github.com/glass-bead-labs/sensor-group/wiki/PostGIS
-http://postgresapp.com/
+- https://github.com/glass-bead-labs/sensor-group/wiki/Postgresql 
+- https://github.com/glass-bead-labs/sensor-group/wiki/PostGIS
+- http://postgresapp.com/
 
 
 
