@@ -19,7 +19,7 @@ To come...
 
 ## Project Description
 
-In order to archieve The Carpool Project Phase I, we need to:
+In order to archieve the first phase of The Carpool Project, we need to:
 
  1. 
  2. 
