@@ -3,7 +3,7 @@ title: The Carpool Project
 client: Vivek Hutheesing
 topic: A mobility marketplace enabled by cars and mobile phones
 mentors: Dav Clark, Javier Rosa
-team: See below
+team: Andrea Yang, Daniel Kim, Jessica Ji, Joseph Fang, Regina Chan, Vivek Hutheesing, Wanrong Zhu, Yangyi Lu
 layout: project
 ---
 ## Project links
