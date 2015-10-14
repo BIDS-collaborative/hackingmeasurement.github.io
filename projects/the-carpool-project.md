@@ -3,7 +3,7 @@ title: The Carpool Project
 client: Vivek Hutheesing
 topic: A mobility marketplace enabled by cars and mobile phones
 mentors: Dav Clark, Javier Ramos
-team: See contributors
+team: See below
 layout: project
 ---
 ## Project links
