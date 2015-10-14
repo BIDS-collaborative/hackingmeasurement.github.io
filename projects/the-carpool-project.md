@@ -33,14 +33,14 @@ In order to archieve The Carpool Project Phase I, we need to:
 
 name | github handle | nano-bio 
 --- | --- | ---
-Andrea Yang | @zcyang123 |  senior in Statistics and Chemistry 
-Daniel Kim | @Minsu-Daniel-Kim |  junior in Computer Science and Statistics
-Jessica Ji | @jessicajji | freshman in Computer Science and Industrial Engineering and Operations Research
-Joseph Fang | @sherlockjjj | junior in Engineering Mathematics and Statistics
-Regina Chan | @Minsu-Daniel-Kim | junior in Statistics
-Vivek Hutheesing | @Minsu-Daniel-Kim | startup entrepreneur
-Wanrong Zhu | @zhuwr0423 | senior in Applied Math and Statistics
-Yangyi Lu | @luyangyi | senior in Mathematics and Statistics
+Andrea Yang | @zcyang123 |  Senior in Statistics and Chemistry 
+Daniel Kim | @Minsu-Daniel-Kim |  Junior in Computer Science and Statistics
+Jessica Ji | @jessicajji | Freshman in Computer Science and Industrial Engineering and Operations Research
+Joseph Fang | @sherlockjjj | Junior in Engineering Mathematics and Statistics
+Regina Chan | @reginacpp | Junior in Statistics
+Vivek Hutheesing | @vhutheesing | Startup Entrepreneur
+Wanrong Zhu | @zhuwr0423 | Senior in Applied Math and Statistics
+Yangyi Lu | @luyangyi | Senior in Mathematics and Statistics
 {: .table}
 
 To come...
