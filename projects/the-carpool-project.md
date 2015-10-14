@@ -21,14 +21,6 @@ To come...
 
 To come...
 
- 1. 
- 2. 
- 3. 
- 4. 
- 5. 
- 6. 
- 7. 
-
 ## Contributors
 
 name | github handle | nano-bio 
