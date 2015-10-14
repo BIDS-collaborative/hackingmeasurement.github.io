@@ -2,8 +2,8 @@
 title: The Carpool Project
 client: Vivek Hutheesing
 topic: A mobility marketplace enabled by cars and mobile phones
-mentor:
-team:
+mentors: Dav Clark, Javier Ramos
+team: See contributors
 layout: project
 ---
 ## Project links
@@ -19,7 +19,7 @@ To come...
 
 ## Project Description
 
-In order to archieve the first phase of The Carpool Project, we need to:
+To come...
 
  1. 
  2. 
@@ -43,5 +43,4 @@ Wanrong Zhu | @zhuwr0423 | Senior in Applied Math and Statistics
 Yangyi Lu | @luyangyi | Senior in Mathematics and Statistics
 {: .table}
 
-To come...
 
