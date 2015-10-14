@@ -8,7 +8,7 @@ layout: project
 ---
 ## Project links
 
- - [The Carpool Project GitHub repo](https://github.com/BIDS-collaborative/the-carpool-project)
+ - [The Carpool Project on GitHub](https://github.com/BIDS-collaborative/the-carpool-project)
  - [The Carpool Project on
    ![Gitter](https://badges.gitter.im/Join%20Chat.svg)
    ](https://gitter.im/BIDS-collaborative/the-carpool-project)
