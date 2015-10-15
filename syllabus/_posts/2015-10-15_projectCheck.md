@@ -45,13 +45,13 @@ also talk about a recent survey project he did.
 - An environment that's totally different than the surrounding
 - There are some issues in getting complete data
 
-####Multi-model inference shows that completeness is limited by:
+#### Multi-model inference shows that completeness is limited by:
     
 - Distance to researchers 
 - Locally available research funding
 - Participation in data-sharing 
 
-####Goal
+#### Goal
 
 - Compares data and stimulates data sharing
 
@@ -92,9 +92,9 @@ also talk about a recent survey project he did.
 - Using Moves have collected data since Sept 1st
 - Don't need to annotate (will result in lat long) but also can add info (Doe Library)
 
-####Hypothesis: People who share a location share common routes
+#### Hypothesis: People who share a location share common routes
 
-####Challenges
+#### Challenges
 1. Receives the Moves data our users collect and report
 2. fully preserves their privacy and their ownership of the data
 3. enables us to prove our hypothesis
@@ -117,11 +117,11 @@ Using these as base for building the data model
 - Trips
 Very focused on privacy
 
-####Data Viz
+#### Data Viz
 - Using Templates to help illustrate data collection and conclusions
 - Leaning on graphs highly, they will be critical in explaining the information that is collected
 
-####QA
+#### QA
 - Project is focused on go to market strategy
   - Focused on constraining to specific groups / locations (employees of Berkeley)
   - Potentially identifying based on directions (such as to SF and back from SF)
@@ -134,12 +134,12 @@ Very focused on privacy
 - Can you collect data on things like casual carpool?
   - Trying, going to be doing surveys
 
-####Goals from drivers perspective
+#### Goals from drivers perspective
 - Drive reveals location
 - Never goes too far out of their way
 - Voluntary, no asking for money
 
-####Need people for Moves Data
+#### Need people for Moves Data
 - Need 30 locations and  ~10 people per location
 - Get to be a location leader ;)
 
@@ -159,6 +159,3 @@ Team will place sensors by Berkeley trains to attempt to discriminate between fr
 ## If there's time
 
 - Neat Stuff Dav has done with a Japanese tutoring company
-
-
-
