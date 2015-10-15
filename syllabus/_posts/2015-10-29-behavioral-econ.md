@@ -39,6 +39,8 @@ social design and connection -- ask her about it at the end.
 
 ## Tentative plan
 
+### The main event
+
 **20 minute presentation about Xlab**, lab facilities, how to access them, IRB
 clearance, and campus resources for experimental social science.
 
@@ -46,3 +48,8 @@ clearance, and campus resources for experimental social science.
 
 Followed by discussion, and (time allowing) discussion of mobile or web
 approaches to similar research questions.
+
+### Project check-ins
+
+We'll have another check-in from EDAM, including some comments by their mentor,
+Jorrit Poelen.
