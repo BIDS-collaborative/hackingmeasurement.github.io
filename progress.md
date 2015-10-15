@@ -44,7 +44,7 @@ exclude: true
 
           // Maybe wrap in try / catch?
           var link_header = ajax.getResponseHeader('Link');
-          var matches = link_header.match(/<(.*?)>; rel="next"/);
+          var matches = link_header.match(/<([^,]*?)>; rel="next"/);
           if(matches) {
               console.log('visiting', matches[1]);
               ajax.open('GET', matches[1], true);
