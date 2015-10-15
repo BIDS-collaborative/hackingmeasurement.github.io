@@ -1,7 +1,7 @@
 ---
-title: Intel Data Sense
+title: Affective Measurement and Data Driven Design
 author: Dav Clark
-presenters:
+presenters: Pablo Paredes
 layout: class
 ---
 
