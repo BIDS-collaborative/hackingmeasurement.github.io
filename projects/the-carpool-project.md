@@ -15,7 +15,7 @@ layout: project
 
 ## Background
 
-To come...
+While the advances of technology are all around us, few in-roads have made our proximity to others a source of value to ourselves. For over ten years now, Vivek has mostly sat at the intersection of proximity and collaboration.  But the proverbial traffic jam now shows real promise of clearing up, due to both technology and governance innovations that are pushing the boundaries of what is possible.
 
 ## Project Description
 
