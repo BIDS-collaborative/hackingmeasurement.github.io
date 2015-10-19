@@ -15,7 +15,7 @@ layout: project
 
 ## Background
 
-While advances in technology abound, few in-roads have made our proximity to others a source of value to ourselves. For over ten years now, Vivek's work as a civic engagement entreprenuer has placed him at the ever-challenging intersection of proximity and collaboration. It is here where he believes a transformational innovation will soon occur that enables you to tap your screen and get to where you next need to be for just 25 cents per mile.
+While advances in technology abound, few in-roads have made our proximity to others a source of value to ourselves. For over ten years now, Vivek's work as a civic engagement entreprenuer has placed him at the ever-challenging intersection of proximity and collaboration. It is here where he believes a transformational innovation will soon occur that enables you to tap your screen and get to where you next need to be for just 25 cents per mile.  For some recent developments leading to the project described below, please see the first link above.
 
 ## Project Description
 
