@@ -15,7 +15,7 @@ layout: project
 
 ## Background
 
-While advances in technology abound, few in-roads have made our proximity to others a source of value to ourselves. For over ten years now, Vivek's work as a civic engagement entreprenuer has placed him at the ever-challenging intersection of proximity and collaboration. It is here where he believes a transformational innovation will soon occur that enables you to tap your screen and get to where you next need to be for just 25 cents per mile. But carpooling will only become culturally significant if the perceived benefits outweigh the perceived costs, at scale -- something that our project aims to help establish. For some recent developments leading to our project below, please see the first link above.
+While advances in technology abound, few in-roads have made our proximity to others a source of value to ourselves. For over ten years now, Vivek's work as a civic engagement entreprenuer has placed him at the ever-challenging intersection of proximity and collaboration. It is here where he believes a transformational innovation will soon occur that enables you to tap your screen and get to where you next need to be for just 25 cents per mile. But carpooling will only become culturally significant if the perceived benefits outweigh the perceived costs, at scale -- something that our project will aim to help establish. For some recent developments, please see the first link above.
 
 ## Project Description
 
