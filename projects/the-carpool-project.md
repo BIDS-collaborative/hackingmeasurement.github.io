@@ -19,7 +19,7 @@ While advances in technology abound, few in-roads have made our proximity to oth
 
 ## Project Description
 
-Eight of us listed below are applying our skills, passions and business experiences to a data project. Our project seeks to prove the following hypothesis - namely, that most people who share a location make common trips.
+Eight of us listed below are applying our skills, passions and business experiences to a data project. Our project seeks to prove the following hypothesis - namely, that people who visit similar locations also make common trips.
 
 Our project will enlist location leaders ("locleads") in specific locations - a neighborhood, a school, a dorm, a BART station, a church, an office, etc. - to help our team amass the mobility data it needs. The locleads, be they neighborhood leaders, teachers, dorm resident advisors, commuters, parish priests or human resource professionals, will both collect and report their own mobility data and convince at least 10 of their location peers ("locpeers" or together with locleads, “users”) to do the same. Users will download the Moves App which our team has successfully tested. The app runs in the background and tracks your moves (places and modes of transport) without any manual intervention. At the end of each month, locpeers will export their collected data to an excel file and email it to a loclead at another location (i.e. to someone they don’t know). The locleads will then email their received data files to our team. This two-step email process will anonymize the data by separating it from the data owner’s identity.
 
