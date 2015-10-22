@@ -2,8 +2,8 @@
 title: Measuring CEGA's impact
 client: Temina Madon, Center for Effective Global Action
 topic: Heterogeneous web / text scraping, integration
-mentor:
-team:
+mentor: Dav Clark
+team: Woojin Jung, Xavier Xiao, Jiangjie Man (Jack), Yang Zhou (John), Zhichao Yang, Wing In Ng
 layout: project
 ---
 ## Project Links
