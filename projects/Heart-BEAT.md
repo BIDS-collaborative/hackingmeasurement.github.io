@@ -1,6 +1,9 @@
 ---
 title: Heart-monitoring Bluetooth EKG Affordable Technology (HeartBEAT)
-team members: Hansen Lui, Joris Ramstein & Jon-Kai Yang
+client: Hansen Lui, Joris Ramstein & Jon-Kai Yang
+topic: Affordable health data colelction, visualization
+mentor:
+team:
 layout: project
 ---
 
