@@ -21,6 +21,7 @@ and in the developing world.
 
 The goal of our project is to develop a 3-lead, afforable, portable and iphone
 bluetooth-connected EKG system using arduino technology. Our goals are to:
+
       1. Be able to collect live data from the electrodes to the iphone
       2. Show the data in real-time as a graph
       3. Collect and analyze the data during effort and movement for extended 
