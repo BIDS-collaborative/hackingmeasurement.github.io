@@ -34,4 +34,4 @@ name | github handle | nano-bio
 --- | --- | ---
 Hansen Lui | @HanZen13 | UCB-UCSF 1st year medical student interested in health technology
 Joris Ramstein | @jorjorbinx | UCB-UCSF 1st year medical student interested in health technology
-Jon-Kai Yang | @GitOnion | Cool PhD dude
+Jon-Kai Yang | @GitOnion | UCB MIMS Student
