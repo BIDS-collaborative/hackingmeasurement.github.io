@@ -5,6 +5,12 @@ presenters: Kristen Berman, Don Moore
 layout: class
 ---
 
+## Introduction & Overview
+
+- Check out the new [IoT offerings from Amazon](https://aws.amazon.com/iot/)?
+- Have a look at the rubric and team assignments (please check in on our main
+  Gitter chat for links and further instructions).
+
 ## Background information
 
 ### What can Xlab do for you?
