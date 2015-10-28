@@ -12,6 +12,19 @@ layout: project
  - [EDAM on
    ![Gitter](https://badges.gitter.im/Join%20Chat.svg)
    ](https://gitter.im/BIDS-collaborative/EDAM)
+ - [EDAM Static Demo](http://bids-collaborative.github.io/EDAM/)
+
+## Progress Summary
+
+We identified 4 islands - Moorea, Kauai, Friday Harbor (San Juan Island), and 
+the Galapagos islands - to demonstrate the proejct idea. After reading an 
+[article](http://www.nature.com/ncomms/2015/150907/ncomms9221/full/ncomms9221.html)
+on biodiversity studies, we defined a metric for completeness and collected
+biodiveristy data on birds regarding these islands. Using leaflet.js for maps,
+we constructed a [simple tool](http://bids-collaborative.github.io/EDAM/) for
+comparing the bird biodiversity among the islands. The tool is static, but it 
+demonstrates the project's intent of allowing biodiversity analysis and comparisons 
+to promote data sharing and research collaboration.
 
 ## Background
 
@@ -63,15 +76,15 @@ In order to archieve EDAM Phase I, we need to:
 
 ## Contributors
 
-name | github handle | nano-bio 
---- | --- | ---
-Jorrit Poelen | @jhpoelen | freelance software engineer building open tools for open data 
+name          | github handle    | nano-bio 
+------------- | ---------------- | ---
+Jorrit Poelen | @jhpoelen        | freelance software engineer building open tools for open data 
 Jonathan Wang | @jonathanwang017 | junior studying CS / Stats 
-Nisreen Hejab | @nhejab | Ph.D student in Biophysics/Structural Biology
-Carlo Liquido | @koalaboy808 | Graduate student in School of Information
-Jong-kai Yang | @GitOnion | Graduate student in School of Information
-Vedant Saran  | @vedants | Freshman studying EE/CS
-Tong Zhang    | @tongzhang1995 | 
+Nisreen Hejab | @nhejab          | Ph.D student in Biophysics/Structural Biology
+Carlo Liquido | @koalaboy808     | Graduate student in School of Information
+Jong-kai Yang | @GitOnion        | Graduate student in School of Information
+Vedant Saran  | @vedants         | Freshman studying EE/CS
+Tong Zhang    | @tongzhang1995   |  
 {: .table}
 
 
