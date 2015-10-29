@@ -1,7 +1,7 @@
 ---
-title: High-Throughput Behavioral Economics
-author: Dav Clark
-presenters: Kristen Berman, Don Moore
+title: High-Throughput Behavioral Economics, EDAM update
+author: Dav Clark, Nisreen Hejab
+presenters: Kristen Berman, Don Moore, Jorrit Poelen
 layout: class
 ---
 
@@ -60,3 +60,22 @@ approaches to similar research questions.
 
 We'll have another check-in from EDAM, including some comments by their mentor,
 Jorrit Poelen.
+
+
+
+THe idea is to develop methods to openly compare ecological data richness/completeness of Ecostations to promote open data sharing.
+
+There are lots of organisms out there but we do not know how they interact with one another.. One does a Sea otter eat?? It is hard to know with the current tools
+
+The challenges of this project is : how do you integrate all the data that is scattered and organize them in a way that is productive to everyone. We want to aggregate all that data.
+
+The GIoBI normalizer is a search engine that links all databases and links references and names “taxonomies”.. Once we have a linked data set we can manipulate and access it in as many ways as you wish. You can ask what Sea Otters eat and get a clean list of the otters favorite foods. 
+We also want to keep the data updated and current. The process is automated so that if data bases change, the search engine would know and hopefully you will always get the most up to date correct answers
+
+**How to contribute data?
+He is using Github to render and share some data... you can edit it there too!
+After collecting data, we need to know if our data is complete... 
+How complete is the list of species that have been seen in open data sets? Taking birds as an example, assuming that we know the total number of species via the Meyer research paper, we could calculate the % of completeness for birds present in 4 Islands (the testing sample) 
+
+The issue is, how do we motivate people to share their data with them? We are contacting 4 researchers in 4 different Islands and persuade them to share their data with us. 
+Hackathon style approach, add more organisms, back story, distribute the hackathons. 
