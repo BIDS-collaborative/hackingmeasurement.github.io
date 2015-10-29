@@ -8,13 +8,15 @@ exclude: true
 <table class="table">
   <tr>
     <th>GitHub ID</th>
-    <th>Project</td>
+    <th>Project</th>
+    <th>Evaluate</th>
     <th style="text-align:center">Committer to site?</th>
   </tr>
   {% for enrolled in site.data.enrolled %}
   <tr>
     <td>{{ enrolled.github_id }}</td>
     <td>{{ enrolled.project }}</td>
+    <td>{{ enrolled.evaluate }}</td>
     <td id="{{ enrolled.github_id }}-committed" style="text-align:center"></td>
   </tr>
   {% endfor %}

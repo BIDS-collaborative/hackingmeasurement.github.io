@@ -1,11 +1,11 @@
-github_id,project
-ProximaDas,save-seistool
-nhejab,EDAM
-renai33,CEGA-trace
-HanZen13,EKG
-brynamo,rcSensing
-Jorjorbinx,EKG
-juanshishido,rcSensing
-dilekuz,air-quality
-GitOnion,EDAM
-yangraymond,dlab-finance
+github_id,project,evaluate
+ProximaDas,save-seistool,EKG
+nhejab,EDAM,CEGA-trace
+renai33,CEGA-trace,EDAM
+HanZen13,EKG,rcSensing
+brynamo,rcSensing,save-seistool
+Jorjorbinx,EKG,rcSensing
+juanshishido,rcSensing,save-seistool
+dilekuz,air-quality,carpool-project
+GitOnion,EDAM,CEGA-trace
+yangraymond,dlab-finance,self evaluation
