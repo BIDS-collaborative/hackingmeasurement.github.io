@@ -22,6 +22,10 @@ exclude: true
   {% endfor %}
 </table>
 
+Note that the carpool-project doesn't have any enrolled class members! Members
+of that team should reciprocate and provide some help to the air-quality
+project.
+
 <script>
 // Isolate our JavaScript
 (function() {
