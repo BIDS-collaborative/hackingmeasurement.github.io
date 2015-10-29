@@ -1,5 +1,23 @@
 # Instructions to the Evaluator (delete this section)
 
+This rubric is meant to be "filled out" by the evaluator. Your goal is to
+assist the team being evaluated with a first draft of materials that might be
+used for proposals, recruitment/on-boarding, and generally having a good public
+face on their online project description. This will lead to information added
+to their class project page and GitHub repositories by the end of class.
+
+## Timeline
+
+- Nov 12: Initial check-in between teams. See the `progress.html` page for
+  assigned teams.
+- Nov 19: Evaluator delivers rubric to the team they are helping. By default,
+  use the GitHub issue tracker for the team's project. If feedback is NOT in
+  the issue tracker by Nov 19, please contact @davclark and explain the
+  situation.
+- Dec 3: Final presentations, with a brief tour of the project. Evaluation
+  should be incorporated into class website and repo as appropriate.
+- Dec 10: Alternate date for presentations.
+
 This file is meant to ultimately land (with appropriate edits) into the
 project description page (in this projects directory).
 
@@ -34,6 +52,8 @@ What are the risks? What technical approaches have been explored, and which
 remain to be explored? Where does the prototype "run?" What methods (e.g.,
 statistics, signal processing, transformation) and tooling (e.g., python
 libraries, hardware platforms) are being used/evaluated/considered?
+
+When does analysis come in.
 
 What skills are needed, and what skills remain to be learned by your team? How
 would someone learn these skills?
