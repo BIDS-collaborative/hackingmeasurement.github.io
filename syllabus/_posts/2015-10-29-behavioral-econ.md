@@ -8,6 +8,7 @@ layout: class
 ## Introduction & Overview
 
 - Check out the new [IoT offerings from Amazon](https://aws.amazon.com/iot/)?
+- Or perhaps [from Google](https://developers.google.com/brillo/)?
 - Have a look at the rubric and team assignments (please check in on our main
   Gitter chat for links and further instructions).
 
