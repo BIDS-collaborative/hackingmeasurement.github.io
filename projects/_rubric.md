@@ -2,9 +2,10 @@
 
 This rubric is meant to be "filled out" by the evaluator. Your goal is to
 assist the team being evaluated with a first draft of materials that might be
-used for proposals, recruitment/on-boarding, and generally having a good public
-face on their online project description. This will lead to information added
-to their class project page and GitHub repositories by the end of class.
+used for proposals (e.g., to Big Ideas, grants, etc.), recruitment/on-boarding,
+and generally having a good public face on their online project description.
+This will lead to information added to their class project page and GitHub
+repositories by the end of class.
 
 ## Timeline
 
