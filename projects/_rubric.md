@@ -42,10 +42,12 @@ Why are you motivated to work on this project?
 
 ## Data / Materials
 
-What data sources or data collection methods have you used?  Where / how is
-data stored? What will you do / have you done to get data? Is there important
-metadata (e.g., time of collection, source, etc.)? Why is the data you have or
-expect to have sufficient or insufficient to meet your challenge?
+What data sources or data collection methods have you used? Are they
+automatic/numerically collected, or manually collected (as with a survey)?
+Where / how is data stored? What will you do / have you done to get data? Is
+there important metadata (e.g., time of collection, source, etc.)? Why is the
+data you have or expect to have sufficient or insufficient to meet your
+challenge?
 
 ## Approach
 
