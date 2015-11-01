@@ -12,8 +12,8 @@ someone’s thoughts might you read with an EEG? How much of someone’s emotion
 state could be read with sensors? The answers to these questions, and more,
 will not be definitively answered in this seminar!
 
-## Reading / Tech
+## Reading
 
-
-## Tentative plan
-
+- [Who sexts thumbprints?](https://medium.com/message/who-sexts-thumbprints-2138641c98c)
+- [Rosalind Picard. Affective wearables.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.9760&rep=rep1&type=pdf)
+- [Petr Slovak. Understanding heartrate sharing: towards unpacking physiosocial space.](http://dl.acm.org/citation.cfm?id=2208526)
