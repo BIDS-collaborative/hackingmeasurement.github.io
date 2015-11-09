@@ -2,7 +2,6 @@
 title: Syllabus
 author: Dav Clark
 layout: page
-comments: true
 ---
 {% include orgs.md %}
 
