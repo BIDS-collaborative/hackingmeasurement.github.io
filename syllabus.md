@@ -14,7 +14,7 @@ This course addresses the fast-growing area of social and environmental
 measurement using technologies such as mobile devices, “Internet of Things” (or
 “Web of Things”) style sensors, and remote sensing. We will take a project-based
 approach, with a classroom discussion each week, followed by a tutorial /
-practicum in the [Berkeley Institute for Data Science][BIDS. Note that the focus
+practicum in the [Berkeley Institute for Data Science][BIDS]. Note that the focus
 of this course is on data collection and management. Teams will likely do some
 basic visualization and exploratory data analysis; statistics and/or machine
 learning are not expected.  We will leverage support from the [Social Science
@@ -40,45 +40,6 @@ meaningful skills.  Available resources on campus (e.g., in [D-Lab][Dlab] and
 
 {% include seminars.html %}
 
-## Aspirational Curriculum - Subject to change!
-
-Please note, the curriculum is very much a work in progress.
-
- - Week 1
-    - Lecture: Overview of issues in social and environmental measurement
-    - Selection of team leads for projects
-    - Practical: project management with GitHub, part 1
- - Week 2
-    - Lecture: An introduction to ethical and legal concerns
-    - Final selection of teams, codes available for telebears
-    - Practical: Creation of team repositories, wiki, and project roadmap in
-      issue tracker. Identification of needed technical resources, including
-      budget.
- - Weeks 3-6 and 9-11 (order determined by plans from week 2 and speaker
-   availability)
-    - Intro to Jekyll / GitHub pages.
-    - Basic data management (ODK Aggregate, Data Turbine, Postgres, MongoDB,
-      ASbase)
-    - Basic visualization (High-level d3, pointers to R and Python on your own)
-    - Mobile devices (ODK, Data Turbine)
-    - IoT/WoT sensors (Arduino + Bluetooth LE)
-    - Remote sensing and geospatial data (Ecoengine, mapbox/leaflet, Google
-      earth engine)
-    - Administrative and utility data (Satellite imagery, Call record data,
-      Electricity & Water)
-
- - Mid-semester (2 weeks)
-    - Presentations: discuss successes, plans, and difficulties. Mid-semester
-      presentations have a "technical" focus, with a goal of enabling your
-      classmates.
-    - Practical: teams and mentors work together to ensure successes are
-      reproducible, pull in outside skills to address challenges. Videos of
-      presentations reviewed by presenters and viewers.
- - Final presentations (2 weeks)
-   - Discuss results in a non-technical fashion.
-   - Practical: Finalize reproducible and transparent research reports (test
-     reproducibility via other teams attempts to reproduce).
-
 ## Grading
 
 Students enrolled in the class will get an A if they do all of the following, a
@@ -95,16 +56,13 @@ organized around GitHub. At a minimum, you will need to have a GitHub account
 that gets associated with the class website and join our Gitter chat forum to
 communicate with the class.
 
-A general rubric for providing feedback is as follows:
+For (3), please start with the [template for providing
+feedback](https://github.com/BIDS-collaborative/hackingmeasurement.github.io/blob/gh-pages/projects/_rubric.md).
 
- - Clarity / reproducibility of methods and results (presented on GitHub,
-   assessed twice at mid-semester and final, strongly weighted towards final).
- - Quality of presentations (incorporating self assessment and peer assessment)
- - Quality of self assessment
- - Quality of peer assessment
-
-Open questions:
+Questions:
 
  - Should all team-members get the same grade for team project? Or should teams
-   be allowed to assign credit to different members?
- - How do students get credit for helping other teams?
+   be allowed to assign credit to different members? This semester, all
+   participants in a team will get credit for team products.
+ - How do students get credit for helping other teams? This semester, you
+   don't beyond credit for giving feedback!

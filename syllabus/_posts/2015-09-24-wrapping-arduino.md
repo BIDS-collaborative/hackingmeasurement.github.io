@@ -1,7 +1,7 @@
 ---
 title: Wrapping Up Arduino
 author: Dav Clark
-presenters:
+presenters: Javier Rosa
 layout: class
 ---
 
