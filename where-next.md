@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Where Next
+comments: true
 ---
 {% include orgs.md %}
 
