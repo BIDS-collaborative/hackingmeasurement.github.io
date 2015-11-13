@@ -35,9 +35,9 @@ and test mobile behavioral research techniques in the field during Summer 2014.
 * Any other sections that are necessary or desired, please add! A general topic
   list would be useful.
 
-## Topics Open
+## Topics
 
-### Source Toolkits.
+### Open Source Toolkits.
 
 Sid Feygin to present on XMobile and open source toolkits/potential
 collaborative efforts.
