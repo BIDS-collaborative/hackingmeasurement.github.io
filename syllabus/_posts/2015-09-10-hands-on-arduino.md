@@ -64,3 +64,81 @@ We'll see how far we get, and move what's left to a later class:
  - Interfacing the Arduino™ with basic sensors (using Arduino C)
  - Getting data from an Arduino to a computer with SD cards
  - Bridging to Arduinos with serial
+
+> Instructions: Navigate to https://github.com/BIDS-collaborative/hackingmeasurement.github.io/blob/gh-pages/syllabus/_posts/2015-09-10-hands-on-arduino.md and edit with the pencil icon/button.
+
+> Also - before this will work for you, you need to accept the invitation to the github repo. Look here: https://github.com/BIDS-collaborative (there will be a link to the invitation near the top of the page)
+
+# Hacking Measurement
+
+Third meeting: 9/10/2015
+
+# Agenda
+ * Grading
+ * Syllabus
+ * More action on Tuesdays! (At BIDS Lab)
+ * Learn more about Arduino
+
+## Annoucements
+ * Office hours on Tuesday (3:30 PM - 6:00 PM) - Just mention that you are here for the BIDS collaborative
+ * Tuesday is time for team work!
+
+### Arduino : An Introduction
+ * Helps to know some basic C programming
+ * Sensors for today:
+        - Fingers!
+        - Motion (PIR) sensor
+        - Accelerometer
+        - Water temperature sensor
+ * Ardunio is open source, a lot of helpful libraries are available online.
+ * Go to Tools -> Board and choose "Arduino Uno" for the type of Arduino we have in the kit.
+ * Go to Tools -> Port, and you should be able to see a port name, which shows that your system recognizes the Arduino (Various OS will show up the port differently)
+ * You can press the right arrow to upload your code to your Arduino. You'll see a message "Done uploading" on the bottom of the screen.
+ * File -> Examples have some very well documented Arduino codes.
+   * File -> Examples -> 01.Basics -> Blink  is a simple example that blinks a built-in LED
+ * Arduino boards usually have a "reset" button to temporarily stop the code from running.
+ * Red = power; black, brown = ground; yellow,orange,green = signal
+ * PIR sensor pins to cable - conventional colors:
+   * Brown - Ground
+   * Red - Power ("VCC", "+5V") 
+   * Yellow - "signal"
+ * 
+ * Accelerometer sensor pins to cable to Arduino Pin # - suggested ad hoc color convention
+   * Brown - Ground
+   * Red - Note!!  plug into the 3.3 Volt Pin
+   * X_Out/X-Axis - Orange - Pin A0
+   * Y_Out/Y-Axis - Yellow - Pin A1
+   * Z-Out/Z-Axis - Green - Pin A2
+
+
+Code for the accelerometer:
+
+```
+// the setup routine runs once when you press reset:
+void setup() {
+  // initialize serial communication at 9600 bits per second:
+  Serial.begin(9600);
+}
+
+// the loop routine runs over and over again forever:
+void loop() {
+  // read the input on analog pin 0:
+  int sensorValueX = analogRead(A0);
+  int sensorValueY = analogRead(A1);
+  int sensorValueZ = analogRead(A2);
+  // print out the value you read:
+  Serial.print(sensorValueX*5/1023.0);
+  Serial.print(',');
+  Serial.print(sensorValueY*5/1023.0);
+  Serial.print(',');
+  Serial.println(sensorValueZ*5/1023.0);
+  delay(100);        // delay in between reads for stability
+}
+```
+
+ * For the future: To play with  the temperature sensor (silver cylinder on the long black wire):
+   * Sketch -> Include Library -> Manage Library
+     * Load DallasTemperature by Miles Burton, et al.
+     * Load OneWIre by Jim Studt, et al.
+   * Caveat: this device needs a "pull up resistor" - not yet covered.
+
