@@ -16,4 +16,8 @@ observation satellites, remote sensing image processing, machine learning
 algorithms, APIs and the advent of big data analytics and unstructured data.
 
 Then, we'll have a lively review of the semester. If a team can't make it for
-the final presentations, this is an alternative date.
+the final presentations, this is an alternative date. Teams on deck so far:
+
+- EKG
+- EDAM
+- Maybe CEGA-trace
