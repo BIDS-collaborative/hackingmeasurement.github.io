@@ -11,7 +11,7 @@ Please review our very own [project pages](/projects.html)!
 
 ## Tentative plan
 
-First, Cathrine Burton from Urthecast will give us a brief overview of earth
+First, Catherine Burton from Urthecast will give us a brief overview of earth
 observation satellites, remote sensing image processing, machine learning
 algorithms, APIs and the advent of big data analytics and unstructured data.
 
