@@ -1,0 +1,32 @@
+Real-world challenge
+Bryan and Juan are working on developing an open-source, not-for-profit sensor that will enable news sources and NGOs to detect altercations in conflict zones. Currently, some foreign governments are hesitant to report on internal conflicts such as Nigeria on their conflicts with Boko Haram. Current surveillance technology (i.e. high resolution satellite imaging, seismometers, etc.) tends to be too expensive for these organizations. By developing this sensor, the team hopes to increase transparency with regards to military movements and provide information that NGOs and the public can use to protect themselves proactively. 
+
+Data / Materials
+The team’s first attempt was to try to use accelerometers to detect vibrations, using trains as a model for artillery deployment and usage. However, the technology was not sensitive enough to discern between passenger trains and freight trains (a level of specificity that the team strives to achieve using their sensing technology).  They are now working with the piezo microfilm (which produces voltage in proportion to compressive or tensile mechanical stress or strain) combined with an analog amplifier, but this technology is almost too sensitive. Most of this semester was dedicated to building the system and optimizing, cleaning, and characterizing raw data. They are almost done with this point and aim to record analyzable data soon. The data are automatically collected onto an SD card before being analyzed. The ultimate goal would be to have the data stored temporarily on SD then transferred wirelessly. This data will include important metadata on time and location. 
+Currently, they are also working on developing analog technology, which is very new to the team. The data they can currently collect is somewhat limited as they are using an analog to digital converter. This means that they don’t have the dimensionality they’d hope and instead can only look at the duration of the signal. 
+
+Approach
+Initially, Bryan was worried he would get arrested when he was running some tests (because one tends to look sketchy when placing an enigmatic device next to train tracks and waiting anxiously for data to record). On a more technical note, some other risks are false positives (predicting an attack when it won’t happen) and false negatives (failing to detect an attack when it will happen), which can open a legal can of worms. 
+This is a very novel field so the team members have been getting their hands dirty with the technical aspects of sensor development and refinement, as well as making sense of the data. Team members have also been learning a lot about analog technology, which they need to learn more about it. They also need to explore the electrical engineering aspect a bit more. And they would eventually like to use scikit-learn for data analysis, but have been focusing on getting an effective signal out of their device. 
+	The team has been working on the electrical engineering side of things to make sure that the signal they are receiving is effective and accurate. Bryan is aiming to learn more about electrical engineering and analog circuit design, as well as, gaining a better understanding of ML. Juan is focusing more on the electrical engineering side of things. They are using tutorials on the Arduino website as well as books, such as Practical Electronics for Inventors. 
+
+Project Management
+The first milestone was to develop a sensor system based on the piezo microfilm that was sensitive and robust enough to identify a train passing by. Their current milestone is to work with an analog-to-digital converter to identify different trains. By the end of the semester, the goal is to have the analog circuit built and an initial model for interpretation. These tasks are more analysis drive and the team aims to split the load. More long-term goals are to make the technology available to NGOs in Nigeria, and possibly beyond if it proves to work.  
+	Overall, Bryan worked on the hardware and Juan worked on the software. The best way to verify this is to ask them. They are working locally since its such a small team. 
+
+Feedback
+We developed some questions about using piezo as a sensor and testing the sensor:
+-	How does the piezo compare to microphones in measuring vibrations? 
+-	Trains are a great area to start because they are big and cause a lot of vibrations. As you guys develop the device, will you guys be planning to test its ability to detect gunfire (i.e. at a shooting range)? This sounds fun! Is the device sensitive enough to detect gunfire? 
+-	What are you guys doing to recognize potential false-positives (i.e. like a bus rolling through)? 
+-	Would coupling the piezo with another sensor make your device more robust and accurate? Maybe an air sensor that can detect the fumes of artillery fire or explosives can help distinguish what kind of activity is happening and add more detail to the device readings. 
+
+We were also wondering if the rcSensing team has thought of how to deploy this technology in conflict zones and if they’re implementing this into the design of their sensor. When testing the sensor, the device was place relatively close to the train. Some questions that come up are:
+-	What is the maximum distance that the sensor can operate?
+-	At a given conflict area, how many sensors need to be placed to be able to cover movement through different areas?  
+-	Who will setup the sensors? 
+-	How long can the sensors last? What is the power-source? 
+-	How will the users extract/export data from the device? 
+
+
+
