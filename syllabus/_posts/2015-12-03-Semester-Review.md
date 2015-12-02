@@ -5,6 +5,12 @@ presenters:
 layout: class
 ---
 
+## Announcement
+
+Check out these [presentations from DIL
+postdocs](http://dil.berkeley.edu/event/development-engineering-lessons-from-the-dil-postdocs/)
+for more inspiration at 4pm after class!
+
 ## Reading / Tech
 
 Please review our very own [project pages](/projects.html)!
