@@ -15,9 +15,11 @@ First, Catherine Burton from Urthecast will give us a brief overview of earth
 observation satellites, remote sensing image processing, machine learning
 algorithms, APIs and the advent of big data analytics and unstructured data.
 
+**Then we'll have class review!**
+
 Then, we'll have a lively review of the semester. If a team can't make it for
 the final presentations, this is an alternative date. Teams on deck so far:
 
-- EKG
 - EDAM
-- Maybe CEGA-trace
+- CEGA-trace
+- The Carpool Project
