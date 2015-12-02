@@ -26,6 +26,5 @@ algorithms, APIs and the advent of big data analytics and unstructured data.
 Then, we'll have a lively review of the semester. If a team can't make it for
 the final presentations, this is an alternative date. Teams on deck so far:
 
-- EDAM
 - CEGA-trace
 - The Carpool Project
