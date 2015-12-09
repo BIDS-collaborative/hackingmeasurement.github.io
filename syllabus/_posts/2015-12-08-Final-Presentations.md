@@ -23,6 +23,7 @@ Please review our very own [project pages](/projects.html)!
 - Second mini-round of talks at 5pm:
   - EDAM: Ecostation Data Access Monitor
   - rcSensing: Automatic Remote Conflict Sensing
+  - D-Lab Finance: Understanding big market data
 
 Each team presents a brief overview of their work to date and plans for the
 future. Around the presentations, we'll have focused discussions and interviews
