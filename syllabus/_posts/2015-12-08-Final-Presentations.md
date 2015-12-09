@@ -18,17 +18,21 @@ Please review our very own [project pages](/projects.html)!
   - Save Seistool! Earthquake Measurement & Visualization
   - Air Quality Sensor Evaluation
   - CEGA Trace: Measuring the Impacts of Development Research
-  - Understanding Dropoff Rates Feeder Courses
-  - Hiring of Women Faculty
   - The Carpool Project
-  - Glass Bead Labs: Understanding Education and Research Processes
   - The Cannabis Project: Machine Learning for Text and Image Analysis
 - Second mini-round of talks at 5pm:
   - EDAM: Ecostation Data Access Monitor
   - rcSensing: Automatic Remote Conflict Sensing
 
-
 Each team presents a brief overview of their work to date and plans for the
 future. Around the presentations, we'll have focused discussions and interviews
 with Chuck Kapelke.
 
+## Other projects of interest
+
+
+- Glass Bead Labs + SHO Zemi: Understanding Education and Research Processes
+- Data Science Initiative projects tomorrow (Wednesday), 5:30pm in 186 Barrows
+  Hall
+  - Understanding Dropoff Rates Feeder Courses
+  - Hiring of Women Faculty
